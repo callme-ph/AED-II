@@ -17,5 +17,5 @@ Não é possível fazer nenhuma análise a partir da imagem acima, além de que 
 Para saber se elementos da mesma categoria comparilham princípios atívos neste caso, podemos usar a matriz de coeficientes de assortatividade a qual exibe em uma matriz as relações de elementos entre grupos. Neste caso, os grupos seriam as categorias.
 A matriz de assortatividade ou mixing matriz resultante foi esta:
 
-<center><img width="800" src="src/img/Mixing_Matrix.jpg"></center>
+<center><img width="800" src="src/img/Mixing_Matrix.png"></center>
 
