@@ -1,5 +1,9 @@
 Discente: Pedro Henrique da Silva Santos
 
+link do vídeo: [https://drive.google.com/uc?id=1WlTVW97V578M9YsNLsu5-1AQnWnceAB5&export=download
+](https://drive.google.com/file/d/1prFRt_8VccAxkefJ9nQaY2z9cUuodkhr/view?usp=drive_link)
+
+
 ## Primeira Hipótese 
 Hipótese da Categoria Regulatória: ○ Medicamentos da mesma categoria regulatória tendem a compartilhar 
 mais princípios ativos?
