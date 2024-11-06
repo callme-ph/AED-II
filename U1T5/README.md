@@ -10,7 +10,7 @@ Objetivo: Avaliar a mobilidade no entorno da UFRN, em Natal-RN.
 
 > Rede analisada na atividade:
 
-<center><img width="600" src="/img/U1T5_Bairros_Bike.png"></center>
+<center><img width="600" src="img/U1T5_Bairros_Bike.png"></center>
 
 > Exibindo a rede com os nós coloridos de acordo com o grau de centralidade dos nós. Foram plotados quatro gráfos para exibir a rede de diferente formas para melhor visualização dos graus de centralidade.
 
