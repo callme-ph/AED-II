@@ -14,7 +14,7 @@ Objetivo: Avaliar a mobilidade no entorno da UFRN, em Natal-RN.
 
 > Exibindo a rede com os nós coloridos de acordo com o grau de centralidade dos nós. Foram plotados quatro gráfos para exibir a rede de diferente formas para melhor visualização dos graus de centralidade.
 
-<center><img width="800" src="img/alltogether.png"></center>
+<center><img width="600" src="img/alltogether.png"></center>
 
 Fazendo uma valiação geral com base nas quatro representações gráficas de cada centralidade é possível inferir algumas possibilidades de instalação dos pontos de compartilhamento de bicicletas.
 
@@ -28,21 +28,21 @@ Analisando a rede feita com a métrica *betweeness centrality* é possível ver 
 
 - Relação entre centralidades.
 
-<center><img width="800" src="img/CentralityxCentrality.png"></center>
+<center><img width="500" src="img/CentralityxCentrality.png"></center>
 
 - Curva da função de densidade de probabilidade e contagem de nós por grau
   
-<center><img width="800" src="img/Hist_PDF.png"></center>
+<center><img width="300" src="img/Hist_PDF.png"></center>
   
 - Curva da função de distribuição acumulada
 
-<center><img width="800" src="img/cumulative_density_function.png"></center>
+<center><img width="300" src="img/cumulative_density_function.png"></center>
 
 No gráfico de quantidade de nós por grau é possível ver que há uma número maior de nós com grau 3 e curva da densidade de probabilidade. No segundo gráfico é possível ver que boa parte da densidade se dá pela quantidade de nós com grau três e uma pequena fração se dá por nós com grau cinco.
 
 > Core e Shell da rede
 
-<center><img width="800" src="img/U1T5_Core_Shell.png"></center>
+<center><img width="500" src="img/U1T5_Core_Shell.png"></center>
 
   
   
