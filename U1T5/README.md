@@ -40,7 +40,8 @@ Analisando a rede feita com a métrica *betweeness centrality* é possível ver 
 
 No gráfico de quantidade de nós por grau é possível ver que há uma número maior de nós com grau 3 e curva da densidade de probabilidade. No segundo gráfico é possível ver que boa parte da densidade se dá pela quantidade de nós com grau três e uma pequena fração se dá por nós com grau cinco.
 
-<center><img width="800" src="img/alltogether.png"></center>
+> Core e Shell da rede
+
 <center><img width="800" src="img/U1T5_Core_Shell.png"></center>
 
   
