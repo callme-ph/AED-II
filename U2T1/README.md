@@ -5,7 +5,7 @@ Unidade 2 - Trabalho 1
 ● Base de dados: https://abre.ai/ltcE
 
 ## Rede 1
-**● O tamanho do vértice deverá ser proporcional a quantidade de vizinhos. **
+** ● O tamanho do vértice deverá ser proporcional a quantidade de vizinhos. **
 
 ● As cores devem ser relacionadas com Closeness ou Betweenness ou Eigenvector Centrality
 
