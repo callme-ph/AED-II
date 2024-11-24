@@ -52,6 +52,18 @@ A rede exibida usando o NetworkX e o Matplotlib:
 ## Requisito 3
 #### ● Disponibilizar a rede em produção com o plugin do Gephi que permite criar uma página HTML para exibir o grafo de forma dinâmica.
 
-<p align="justify"> Para o terceiro requisito houve algumas mudanças na rede: Baseado na classe de modularidade as cores dos grafos foram definidas para facilmente identificar grupos da rede, para mais informações sobre o algoritmo usado pelo Gephi, ver a documentação disponibilizada no Gephi [aqui.](http://duckduckgo.com/?t=h_&q=Vincent+D+Blondel%2C+Jean-Loup+Guillaume%2C+Renaud+Lambiotte%2C+Etienne+Lefebvre%2C+Fast+unfolding+of+communities+in+large+networks%2C+in+Journal+of+Statistical+Mechanics%3A+Theory+and+Experiment+2008%2C+P1000&ia=web)
+<p align="justify"> Para o terceiro requisito houve algumas mudanças na rede: Baseado na classe de modularidade as cores dos grafos foram definidas para facilmente identificar grupos da rede, para mais informações sobre o algoritmo usado pelo Gephi para identificar as classes, ver a documentação disponibilizada no Gephi. O tamanho dos nós foram definidos baseados no grau de entrada dos nós pois é uma métrica importante para uma rede de co-autoria. Assim, com essas alterações, dois layouts foram aplicados: um foi o layout Fruchterman Reingold que perimite uma boa visualização da rede pois permite que os nós sejam bem distribuidos; E o layout do ForceAtlas 2 para tentar unir os nós em grupos. A visualização de ambos os layouts podem ser vistas abaixo:
+</p>
+<p align="center">
+  <img width="400" src="Requisito 3/img/Rede3_FR.png">
+  <img width="400" src="Requisito 3/img/Rede3_Atlas.png">
 </p>
 
+<p align="justify"> Ainda analisando a rede, foi calculado uma média de grau de aproximadamente 8 grau por nó, ao fazer a filtragem para visualizar somente os nós com 8 graus ou mais é possível ver que a maioria nós ainda permanecem visíveis, corroborando com o cálculo feito pelo Gephi.
+</p>
+<p align="center">
+  <img width="400" src="Requisito 3/img/Rede3_8_degree.png">
+</p>
+
+<p align="justify"> Usando o plug-in SigmaExport do Gephi foi feito a exportação da rede para visualização interativa. É possível ver a rede pelo GitHub Pages neste [link.](https://callme-ph.github.io/co-authorship-graduate/)
+</p>
