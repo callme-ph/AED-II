@@ -33,14 +33,14 @@ A rede exibida usando o NetworkX e o Matplotlib:
 <p align="center">
   <img width="400" src="Rede 2/img/Rede2_spring_layout.png">
   <img width="400" src="Rede 2/img/Rede2_circular_layout.png">
-  <img width="600" src="Rede 2/img/Rede2_k-core_shell.png">
+  <img width="500" src="Rede 2/img/Rede2_k-core_shell.png">
 </p>
 
  O grafo exibido no Gephi após alteração das cores e tamanho dos nós:
 
 <p align="center">
   <img width="400" src="Rede 2/img/Rede2.png">
-  <img width="600" src="Rede 2/img/Rede2_semarestas.png">
+  <img width="400" src="Rede 2/img/Rede2_semarestas.png">
 </p>
 
 É possível também destacar os nós que fazem parte do 18º core e exibir os nomes dos autores referente à esses:
