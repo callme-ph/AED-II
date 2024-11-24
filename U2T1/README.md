@@ -17,7 +17,7 @@ O grafo resultante no Gephi foi este:
 
 <p align="center">
   <img width="400" src="Rede 1/img/Rede1.png">
-  <img width="400" src="Rede 1/img/Rede1.svg">
+  <img width="400" src="Rede 1/img/Rede1_semarestas.svg">
 </p>
 
 ## Requisito 2
@@ -31,8 +31,8 @@ Outra forma de destacar os nós do k-core e do k-shell é exportando a planilha 
 A rede exibida usando o NetworkX e o Matplotlib:
 
 <p align="center">
-  <img width="300" src="Rede 2/img/Rede2_spring_layout.png">
-  <img width="300" src="Rede 2/img/Rede2_circular_layout.png">
-  <img width="300" src="Rede 2/img/Rede2_k-core_shell.png">
+  <img width="400" src="Rede 2/img/Rede2_spring_layout.png">
+  <img width="400" src="Rede 2/img/Rede2_circular_layout.png">
+  <img width="600" src="Rede 2/img/Rede2_k-core_shell.png">
 </p>
  
