@@ -16,8 +16,8 @@ O grafo resultante no Gephi foi este:
 </p>
 
 <p align="center">
-  <img width="400" src="Rede 1/img/Rede1.png">
-  <img width="400" src="Rede 1/img/Rede1_semarestas.png">
+  <img width="400" src="Requisito 1/img/Rede1.png">
+  <img width="400" src="Requisito 1/img/Rede1_semarestas.png">
 </p>
 
 ## Requisito 2
@@ -31,22 +31,22 @@ Outra forma de destacar os nós do k-core e do k-shell é exportando a planilha 
 A rede exibida usando o NetworkX e o Matplotlib:
 
 <p align="center">
-  <img width="400" src="Rede 2/img/Rede2_spring_layout.png">
-  <img width="400" src="Rede 2/img/Rede2_circular_layout.png">
-  <img width="500" src="Rede 2/img/Rede2_k-core_shell.png">
+  <img width="400" src="Requisito 2/img/Rede2_spring_layout.png">
+  <img width="400" src="Requisito 2/img/Rede2_circular_layout.png">
+  <img width="500" src="Requisito 2/img/Rede2_k-core_shell.png">
 </p>
 
  O grafo exibido no Gephi após alteração das cores e tamanho dos nós:
 
 <p align="center">
-  <img width="400" src="Rede 2/img/Rede2.png">
-  <img width="400" src="Rede 2/img/Rede2_semarestas.png">
+  <img width="400" src="Requisito 2/img/Rede2.png">
+  <img width="400" src="Requisito 2/img/Rede2_semarestas.png">
 </p>
 
 É possível também destacar os nós que fazem parte do 18º core e exibir os nomes dos autores referente à esses:
 
 <p align="center">
-  <img width="500" src="Rede 2/img/Rede2_18th_core.png">
+  <img width="500" src="Requisito 2/img/Rede2_18th_core.png">
 </p>
 
 ## Requisito 3
