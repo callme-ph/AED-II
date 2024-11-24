@@ -38,9 +38,19 @@ A rede exibida usando o NetworkX e o Matplotlib:
 
  O grafo exibido no Gephi após alteração das cores e tamanho dos nós:
 
- <p align="center">
+<p align="center">
   <img width="400" src="Rede 2/img/Rede2.png">
-  <img width="400" src="Rede 2/img/Rede2.svg">
   <img width="600" src="Rede 2/img/Rede2_semarestas.png">
-  <img width="600" src="Rede 2/img/Rede2_semarestas.svg">
 </p>
+
+É possível também destacar os nós que fazem parte do 18º core e exibir os nomes dos autores referente à esses:
+
+<p align="center">
+  <img width="400" src="Rede 2/img/Rede2_18th_core.png">
+  <img width="400" src="Rede 2/img/Rede2_18th_core.svg">
+</p>
+
+## Requisito 2
+#### ● Disponibilizar a rede em produção com o plugin do Gephi que permite criar uma página HTML para exibir o grafo de forma dinâmica.
+
+
