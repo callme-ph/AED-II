@@ -15,8 +15,8 @@ O banco de dados foi importado para o Gephi para manipulação do grafo, um layo
 O grafo resultante no Gephi foi este:
 
 <p align="center">
-  <img width="300" src="Rede 1/img/Rede1.png">
-  <img width="300" src="Rede 1/img/Rede1.svg">
+  <img width="400" src="Rede 1/img/Rede1.png">
+  <img width="400" src="Rede 1/img/Rede1.svg">
 </p>
 
 ## Requisito 2
@@ -25,4 +25,12 @@ O grafo resultante no Gephi foi este:
 A rede é exibida com o layout Fruchterman Reingold e depois, Sem sobreposição; Para fazaer a edição da rede baseda no k-core da rede é possível usar o filtro de Topologia da rede para colorir os nós de diferentes formas. Inicialmente é necessário selecionar uma cor base para os nós, filtrar os nós com k-core igual 17 e pinta-los de vermelho para representar o k-shell - ambos os nós com k-core 17 e 18 serão coloridos, porém, após colorir os nós com k-core igual a 18 os nós serão diferenciados - e o depois filtrar os nós com k-core igual à 18 e pinta-los de azul. Assim, após remover os filtros os nós com k-core igual a 18 estarão azuis, os nós em vermelho serão o k-shell pois serão os nós do k-core 18 menos os nós do k-core 17 e o restante dos nós estarão com a cor base.
 
 Outra forma de destacar os nós do k-core e do k-shell é exportando a planilha de nós e a de arestas para o google colaboratory e usar a biblioteca OSMNX e NetworkX para visualização, cálculo do k-core e k-shell e a biclioteca do Pandas para alterar a tabela de dados. O código feito pode ser visto [aqui.](https://colab.research.google.com/drive/1b9sFtuU_ssYOIrpJj7rhgnWIUVq8_m21?usp=sharing)
+
+A rede exibida usando o NetworkX e o Matplotlib:
+
+<p align="center">
+  <img width="300" src="Rede 2/img/Rede2_spring_layout.png">
+  <img width="300" src="Rede 2/img/Rede2_circular_layout.png">
+  <img width="300" src="Rede 2/img/Rede2_k-core_shell.png">
+</p>
  
