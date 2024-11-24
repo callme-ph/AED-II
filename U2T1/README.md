@@ -18,7 +18,6 @@ O grafo resultante no Gephi foi este:
 <p align="center">
   <img width="400" src="Rede 1/img/Rede1.png">
   <img width="400" src="Rede 1/img/Rede1_semarestas.png">
-  <img width="400" src="Rede 1/img/Rede1_semarestas.svg">
 </p>
 
 ## Requisito 2
