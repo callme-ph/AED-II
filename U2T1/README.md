@@ -52,7 +52,7 @@ A rede exibida usando o NetworkX e o Matplotlib:
 ## Requisito 3
 #### ● Disponibilizar a rede em produção com o plugin do Gephi que permite criar uma página HTML para exibir o grafo de forma dinâmica.
 
-<p align="justify"> Para o terceiro requisito houve algumas mudanças na rede: Baseado na classe de modularidade as cores dos grafos foram definidas para facilmente identificar grupos da rede, para mais informações sobre o algoritmo usado pelo Gephi, ver a [documentação](https://duckduckgo.com/?t=h_&q=Vincent+D+Blondel%2C+Jean-Loup+Guillaume%2C+Renaud+Lambiotte%2C+Etienne+Lefebvre%2C+Fast+unfolding+of+communities+in+large+networks%2C+in+Journal+of+Statistical+Mechanics%3A+Theory+and+Experiment+2008+(10)%2C+P1000&ia=web) disponibilizada no Gephi
+<p align="justify"> Para o terceiro requisito houve algumas mudanças na rede: Baseado na classe de modularidade as cores dos grafos foram definidas para facilmente identificar grupos da rede, para mais informações sobre o algoritmo usado pelo Gephi, ver a [documentação](https://duckduckgo.com/?t=h_&q=Vincent+D+Blondel%2C+Jean-Loup+Guillaume%2C+Renaud+Lambiotte%2C+Etienne+Lefebvre%2C+Fast+unfolding+of+communities+in+large+networks%2C+in+Journal+of+Statistical+Mechanics%3A+Theory+and+Experiment+2008%2C+P1000&ia=web) disponibilizada no Gephi
   
   [aqui.](https://colab.research.google.com/drive/1b9sFtuU_ssYOIrpJj7rhgnWIUVq8_m21?usp=sharing)
 </p>
