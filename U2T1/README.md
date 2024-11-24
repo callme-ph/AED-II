@@ -33,6 +33,6 @@ A rede exibida usando o NetworkX e o Matplotlib:
 <p align="center">
   <img width="400" src="Rede 2/img/Rede2_spring_layout.png">
   <img width="400" src="Rede 2/img/Rede2_circular_layout.png">
-  <img width="400" src="Rede 2/img/Rede2_k-core_shell.png">
+  <img width="600" src="Rede 2/img/Rede2_k-core_shell.png">
 </p>
  
