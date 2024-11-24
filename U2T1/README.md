@@ -64,8 +64,7 @@ A rede exibida usando o NetworkX e o Matplotlib:
 <p align="center">
   <img width="400" src="Requisito 3/img/Rede3_8_degree.png">
 </p>
-
-<p align="justify"> Usando o plug-in SigmaExport do Gephi foi feito a exportação da rede para visualização interativa. É possível ver a rede pelo GitHub Pages neste
-  
-[link.](https://callme-ph.github.io/co-authorship-graduate)
+<p align="justify">Usando o plug-in SigmaExport do Gephi foi feito a exportação da rede para visualização interativa. É possível ver a rede pelo GitHub Pages neste
 </p>
+
+[link.](https://callme-ph.github.io/co-authorship-graduate)
