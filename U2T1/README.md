@@ -17,7 +17,9 @@ O grafo resultante no Gephi foi este:
 
 <p align="center">
   <img width="400" src="Requisito 1/img/Rede1.png">
-  <img width="400" src="Requisito 1/img/Rede1_semarestas.png">
+  <img width="400" src="Requisito 1/img/Rede1_Degree.png">
+  <img width="400" src="Requisito 1/img/Rede1_Closeness.png">
+  <img width="400" src="Requisito 1/img/Rede1_Eigenvector.png">
 </p>
 
 ## Requisito 2
