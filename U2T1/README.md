@@ -16,7 +16,11 @@ O grafo resultante no Gephi foi este:
 </p>
 
 <p align="center">
-  <img width="400" src="Requisito 1/img/Rede1.png">
+  <figure>
+    <img width="400" src="Requisito 1/img/Rede1.png">
+    <figcaption> Betweenness </figcaption>
+  </figure>
+  
   <img width="400" src="Requisito 1/img/Rede1_Degree.png">
   <img width="400" src="Requisito 1/img/Rede1_Closeness.png">
   <img width="400" src="Requisito 1/img/Rede1_Eigenvector.png">
