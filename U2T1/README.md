@@ -16,7 +16,7 @@ O grafo resultante no Gephi foi este:
 </p>
 
 <p>
-  <figure>
+  <figure align="center">
     <figcaption align="center"> Betweenness </figcaption>
     <img width="400" src="Requisito 1/img/Rede1.png">
   </figure>
