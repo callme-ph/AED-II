@@ -15,7 +15,7 @@
 O grafo resultante no Gephi foi este:
 </p>
 
-  <figure align="center">
+ <p>
     <figcaption align="center"> Betweenness </figcaption>
     <img width="400" src="Requisito 1/img/Rede1.png">  
     <figcaption align="center"> Degree </figcaption>
@@ -24,7 +24,7 @@ O grafo resultante no Gephi foi este:
     <img width="400" src="Requisito 1/img/Rede1_Closeness.png">
     <figcaption align="center"> Eigenvector </figcaption>
     <img width="400" src="Requisito 1/img/Rede1_Eigenvector.png">    
-  </figure>
+ </p>
 
 ## Requisito 2
 #### ● A partir da rede construída gerar uma figura similar no gephi destacando o k-core e o k-shell da rede. O layout é de livre escolha. Os vértices devem ter um tamanho proporcional a propriedade degree. A figura deverá estar acompanhada de descrição/explicação.
