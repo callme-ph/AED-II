@@ -15,11 +15,13 @@
 O grafo resultante no Gephi foi este:
 </p>
 
+<h3 align="center"> Centralidade por Grau e Betweenness </h3>
  <p align="center">
-   <h3> Centralidade por Grau e Betweenness </h3>
     <img width="500" src="Requisito 1/img/Rede1.png">  
     <img width="500" src="Requisito 1/img/Rede1_Degree.png">
-  <h3> Centralidade por proximidade e por autovetor </h3>
+ </p>
+ <h3 align="center"> Centralidade por proximidade e por autovetor </h3>
+ <p>
     <img width="500" src="Requisito 1/img/Rede1_Closeness.png">
     <img width="500" src="Requisito 1/img/Rede1_Eigenvector.png">    
  </p>
