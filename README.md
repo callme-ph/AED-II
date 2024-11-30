@@ -4,7 +4,7 @@
 #### Algorithms and Data Structure II (DCA3702) - 2024.2
 
 #### Professor: Ivanovitch Medeiros Dantas Da Silva
-#### Author: Pedro Henrique da Silva Santos - Engenharia de Computação
+#### Author: Pedro Henrique da Silva Santos - Computer Engeneering undergraduate.
 
 This is the repository for the Algorithms and Data Structures II activities resolutions.
 
