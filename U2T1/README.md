@@ -15,7 +15,7 @@
 O grafo resultante no Gephi foi este:
 </p>
 
- <p>
+ <p align="center">
     <img width="400" src="Requisito 1/img/Rede1.png">  
     <img width="400" src="Requisito 1/img/Rede1_Degree.png">
     <img width="400" src="Requisito 1/img/Rede1_Closeness.png">
