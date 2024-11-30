@@ -17,17 +17,11 @@ O grafo resultante no Gephi foi este:
 
   <figure align="center">
     <figcaption align="center"> Betweenness </figcaption>
-    <img width="400" src="Requisito 1/img/Rede1.png">
-  </figure>
-  <figure>
+    <img width="400" src="Requisito 1/img/Rede1.png">  
     <figcaption align="center"> Degree </figcaption>
     <img width="400" src="Requisito 1/img/Rede1_Degree.png">
-  </figure>
-  <figure>
     <figcaption align="center"> Cloeseness </figcaption>
     <img width="400" src="Requisito 1/img/Rede1_Closeness.png">
-  </figure>
-  <figure>
     <figcaption align="center"> Eigenvector </figcaption>
     <img width="400" src="Requisito 1/img/Rede1_Eigenvector.png">    
   </figure>
