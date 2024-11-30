@@ -11,8 +11,8 @@
 
 #### ● Adotar um layout que seja razoável perceber a diferença entre as cores do vértices
 
-<p align="justify"> O banco de dados foi importado para o Gephi para manipulação do grafo, um layout circular foi adotado para melhor visualização do conjunto de nós e suas ligações. Como requisitado, a primeira alteração foi feita no tamanho dos nós, definido baseado no grau do nó. Na Aba "Aparência" da interface "Visão Geral", o tamnho do nó foi definido baseado no Ranking e a opção escolhida foi o grau com tamanho entre 10 e 50. As cores foram definidas de acordo com a métrica betweenness centrality que mede quão central um nó é em relação aos caminhos de todos os pares de nós da rede que passam por este nó. Os nós mais escuros possuem um grau de centralidade maior.
-O grafo resultante no Gephi foi este:
+<p align="justify"> O banco de dados foi importado para o Gephi para manipulação do grafo, um layout circular foi adotado para melhor visualização do conjunto de nós e suas ligações. Como requisitado, a primeira alteração foi feita no tamanho dos nós, definido baseado no grau do nó. Na Aba "Aparência" da interface "Visão Geral", o tamnho do nó foi definido baseado no Ranking e a opção escolhida foi o grau com tamanho entre 10 e 50. As cores foram definidas de acordo com as métricas de centralidade como exibido nos requisitos da atividade. Os nós mais claros possuem um grau de centralidade maior.
+Os grafos resultantee no Gephi foram estes:
 </p>
 
 <h3 align="center"> Centralidade por Grau e Betweenness </h3>
