@@ -15,12 +15,12 @@
 O grafo resultante no Gephi foi este:
 </p>
 
-<p>
+<p align="center">
   <figure align="center">
     <figcaption align="center"> Betweenness </figcaption>
     <img width="400" src="Requisito 1/img/Rede1.png">
   </figure>
-  <figure></figure>
+  <figure>
     <figcaption align="center"> Degree </figcaption>
     <img width="400" src="Requisito 1/img/Rede1_Degree.png">
   </figure>
