@@ -16,10 +16,10 @@ O grafo resultante no Gephi foi este:
 </p>
 
  <p align="center">
-    <img width="400" src="Requisito 1/img/Rede1.png">  
-    <img width="400" src="Requisito 1/img/Rede1_Degree.png">
-    <img width="400" src="Requisito 1/img/Rede1_Closeness.png">
-    <img width="400" src="Requisito 1/img/Rede1_Eigenvector.png">    
+    <img width="500" src="Requisito 1/img/Rede1.png">  
+    <img width="500" src="Requisito 1/img/Rede1_Degree.png">
+    <img width="500" src="Requisito 1/img/Rede1_Closeness.png">
+    <img width="500" src="Requisito 1/img/Rede1_Eigenvector.png">    
  </p>
 
 ## Requisito 2
