@@ -17,8 +17,8 @@ Os grafos resultantee no Gephi foram estes:
 
 <h3 align="center"> Centralidade por Grau e Betweenness </h3>
  <p align="center">
-    <img width="500" src="Requisito 1/img/Rede1.png">  
-    <img width="500" src="Requisito 1/img/Rede1_Degree.png">
+   <img width="500" src="Requisito 1/img/Rede1_Degree.png">
+   <img width="500" src="Requisito 1/img/Rede1.png">  
  </p>
  <h3 align="center"> Centralidade por proximidade e por autovetor </h3>
  <p>
