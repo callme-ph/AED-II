@@ -4,6 +4,8 @@
 
 ● Base de dados: https://abre.ai/ltcE
 
+● Link do vídeo: https://drive.google.com/file/d/1-xoAY0vuk5X9kWA6TmuRhU7u3khBw1KV/view?usp=sharing
+
 ## Requisito 1
 #### ● O tamanho do vértice deverá ser proporcional a quantidade de vizinhos.
 
