@@ -6,5 +6,4 @@ O trabalho teve como objetivo analisar a complexidade dos algorítmos de busca e
 
  <p align="center>
     <img width="500" src="img/Time_Complexity.png">
-    <img width="500" src="img/Time_Complexity(1).png">    
  </p>
