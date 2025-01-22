@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1390.3762"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-687.946289 -633.636108 1390.376221 1272.099365"
+     height="1272.0994" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Fig id_HALE"
+              d="M -557.249146,146.525497 A 436.575046,436.575046 0,0 1,-307.738770,-297.249451"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fig id_World"
+              d="M -548.636047,148.902771 A 481.549358,481.549358 0,0 1,-18.817459,-6.775190"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fig id_UHC"
+              d="M -554.248535,146.541351 A 642.954737,642.954737 0,0 1,-30.949644,-394.564026"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fig id_SDGs"
+              d="M -562.299683,148.407959 A 383.318186,383.318186 0,0 1,-546.371460,-291.043365"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_World"
+              d="M -524.911316,-303.133057 A 514.059682,514.059682 0,0 1,-8.446559,-18.128862"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_Global"
+              d="M -527.446899,-293.587189 A 743.822501,743.822501 0,0 1,-272.518646,539.858032"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_UHC"
+              d="M -528.950195,-311.191437 A 439.437645,439.437645 0,0 1,-29.956232,-401.576874"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HALE id_World"
+              d="M -295.081482,-299.032593 A 354.552903,354.552903 0,0 1,-3.439942,-19.701948"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HALE id_Bank"
+              d="M -296.520844,-304.247925 A 429.489017,429.489017 0,0 1,206.539642,-330.764404"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Bank"
+              d="M -0.691411,-19.988045 A 324.864565,324.864565 0,0 1,205.756226,-323.733856"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_ASDR"
+              d="M -17.332901,9.978503 A 520.423156,520.423156 0,0 1,-617.164307,-59.797447"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Kidney"
+              d="M -17.968302,-8.782947 A 182.388743,182.388743 0,0 1,-110.682678,-184.141571"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Geneva"
+              d="M 15.672735,-12.424386 A 515.859456,515.859456 0,0 1,603.031616,-38.618683"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Group"
+              d="M 19.227564,-5.504615 A 508.240947,508.240947 0,0 1,569.938293,200.255707"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_UNDESA"
+              d="M -18.795544,-6.835753 A 520.848673,520.848673 0,0 1,-351.917908,-511.672485"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Population"
+              d="M 16.724649,10.967504 A 523.373901,523.373901 0,0 1,226.251923,581.103516"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Division"
+              d="M 8.518424,18.095205 A 328.205324,328.205324 0,0 1,-63.798145,384.125854"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_New"
+              d="M 19.870218,2.274736 A 511.538015,511.538015 0,0 1,450.999695,397.740326"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Health"
+              d="M 11.099370,16.637426 A 509.376302,509.376302 0,0 1,-11.802054,598.169861"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Assembly"
+              d="M -7.676197,-18.468243 A 510.736877,510.736877 0,0 1,133.800751,-591.704834"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_AMR"
+              d="M -5.637548,19.189009 A 527.512186,527.512186 0,0 1,-494.882599,388.254700"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_UHC"
+              d="M -12.298234,-15.771919 A 330.823275,330.823275 0,0 1,-25.809603,-386.732605"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Data"
+              d="M -10.754629,16.862324 A 199.701428,199.701428 0,0 1,-213.304047,96.882179"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_World id_Organization"
+              d="M 16.011614,11.984500 A 182.302709,182.302709 0,0 1,75.192238,198.259567"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_egypt"
+              d="M -14.601825,-13.666993 A 514.725881,514.725881 0,0 1,-121.459259,-601.523804"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Global"
+              d="M 3.171843,19.746883 A 514.512258,514.512258 0,0 1,-265.388489,546.071350"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Nairobi"
+              d="M 19.420443,-4.779796 A 303.918572,303.918572 0,0 1,335.302032,124.161652"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_United"
+              d="M 8.310405,-18.191679 A 517.303141,517.303141 0,0 1,524.384033,-309.087891"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Nations"
+              d="M 12.424716,-15.672474 A 360.263200,360.263200 0,0 1,407.072754,-124.275444"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Children"
+              d="M 10.217731,-17.192963 A 180.480721,180.480721 0,0 1,189.330780,-94.617752"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Fund"
+              d="M 18.459246,7.697810 A 358.734117,358.734117 0,0 1,229.153976,358.613678"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_nd"
+              d="M -17.874496,8.972312 A 322.590523,322.590523 0,0 1,-378.578857,-52.504513"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Manila"
+              d="M -3.408930,19.707338 A 349.017295,349.017295 0,0 1,-289.227600,294.844666"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Chile"
+              d="M 0.418626,-19.995619 A 516.013824,516.013824 0,0 1,365.907745,-492.897919"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bank id_New"
+              d="M 219.371140,-321.974976 A 648.145777,648.145777 0,0 1,458.998047,398.187561"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bank id_UHC"
+              d="M 205.678497,-323.949188 A 202.331153,202.331153 0,0 1,-12.260975,-387.320190"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bank id_Geneva"
+              d="M 220.810089,-326.485291 A 419.197447,419.197447 0,0 1,612.684998,-46.007706"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bank id_Chile"
+              d="M 214.074692,-334.189606 A 193.102053,193.102053 0,0 1,365.747772,-493.558044"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Nations"
+              d="M 539.499084,-292.429382 A 186.455796,186.455796 0,0 1,422.707428,-124.376984"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_New"
+              d="M 546.659912,-294.362244 A 604.510169,604.510169 0,0 1,464.743164,401.571289"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Group"
+              d="M 548.879150,-295.891693 A 429.046054,429.046054 0,0 1,577.836304,200.170044"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_UHC"
+              d="M 525.914917,-300.641510 A 471.496309,471.496309 0,0 1,-11.228774,-388.230194"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Geneva"
+              d="M 550.936462,-297.972565 A 241.538102,241.538102 0,0 1,624.298340,-45.927345"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Assembly"
+              d="M 524.291931,-307.449646 A 411.094344,411.094344 0,0 1,142.097931,-589.337646"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Nairobi"
+              d="M 542.256653,-292.723846 A 401.770436,401.770436 0,0 1,347.865509,127.273849"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Nations id_New"
+              d="M 420.324890,-115.106590 A 446.542442,446.542442 0,0 1,462.327057,399.732574"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Nations id_UHC"
+              d="M 406.595490,-120.863373 A 428.441094,428.441094 0,0 1,-15.158541,-385.661316"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Nations id_Geneva"
+              d="M 423.087494,-123.038071 A 186.376679,186.376679 0,0 1,608.814819,-44.224106"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Nations id_Nairobi"
+              d="M 417.665924,-113.575882 A 219.910320,219.910320 0,0 1,347.139893,126.181435"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Health"
+              d="M 615.548950,-10.463738 A 753.974122,753.974122 0,0 1,-5.795921,608.424866"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Geneva id_Organization"
+              d="M 608.956787,-12.847094 A 494.912547,494.912547 0,0 1,80.997917,208.154053"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_New"
+              d="M 623.157104,-10.880846 A 392.580398,392.580398 0,0 1,467.076263,404.303314"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Children"
+              d="M 601.988403,-20.349852 A 356.653733,356.653733 0,0 1,199.656219,-89.194077"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Fund"
+              d="M 615.502014,-10.471115 A 461.368949,461.368949 0,0 1,234.736298,363.775482"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Nairobi"
+              d="M 610.576660,-11.984734 A 267.566391,267.566391 0,0 1,348.959015,132.559418"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_New"
+              d="M -13.273133,597.146973 A 429.489780,429.489780 0,0 1,439.018402,409.405548"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_Global"
+              d="M -36.686504,616.832458 A 218.129849,218.129849 0,0 1,-268.236542,561.440674"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_Nairobi"
+              d="M -21.409920,594.757446 A 500.411154,500.411154 0,0 1,331.599487,134.169647"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_nd"
+              d="M -36.269123,603.942932 A 632.593308,632.593308 0,0 1,-383.787292,-50.759098"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_Manila"
+              d="M -37.395901,607.141541 A 348.221473,348.221473 0,0 1,-295.760803,303.131470"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Organization id_New"
+              d="M 81.138573,205.142929 A 361.421189,361.421189 0,0 1,447.365143,398.978333"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Organization id_Global"
+              d="M 71.571716,214.495850 A 409.705260,409.705260 0,0 1,-264.121246,549.982422"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Organization id_Nairobi"
+              d="M 78.075584,199.749649 A 231.219499,231.219499 0,0 1,331.774536,128.568298"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Organization id_Manila"
+              d="M 67.498619,212.627777 A 316.649997,316.649997 0,0 1,-289.697876,298.706360"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Assembly id_UHC"
+              d="M 139.364197,-588.975159 A 213.158942,213.158942 0,0 1,-8.244125,-399.769379"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Assembly id_nd"
+              d="M 138.702484,-589.034302 A 626.213608,626.213608 0,0 1,-376.887634,-57.800034"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Children"
+              d="M 440.300018,405.908600 A 473.992392,473.992392 0,0 1,194.341446,-87.494888"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Fund"
+              d="M 439.784851,418.916168 A 192.142454,192.142454 0,0 1,232.782547,369.252045"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Group"
+              d="M 452.928925,397.464752 A 199.095756,199.095756 0,0 1,567.358948,209.205673"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Population"
+              d="M 449.380768,427.774811 A 239.677699,239.677699 0,0 1,230.313141,586.368042"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Division"
+              d="M 441.129059,421.467255 A 435.477481,435.477481 0,0 1,-63.512276,391.478943"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ef0b00" r="10.733333" cx="-555.81"
+                class="id_Fig" cy="158.10306" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.8666666"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="12.266667" cx="-538.1491"
+                class="id_SDGs" cy="-301.5396" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="2.1333334"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="6.133333" cx="-301.67474"
+                class="id_HALE" cy="-300.01926" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="18.4" cx="1.5627928E-23"
+                class="id_World" cy="8.115921E-24" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="3.1999998"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="7.1555557" cx="213.03232"
+                class="id_Bank" cy="-326.482" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.2444444"/>
+        <circle fill-opacity="1.0" fill="#444444" r="5.1111107" cx="-621.2666"
+                class="id_ASDR" cy="-63.54386" stroke="#2f2f2f"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#444444" r="4.6" cx="-110.17211"
+                class="id_Kidney" cy="-189.11543" stroke="#2f2f2f"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="13.8" cx="539.29193"
+                class="id_United" cy="-307.42795" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="7.6666665" cx="414.90884"
+                class="id_Nations" cy="-121.43991" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.3333333"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="16.866665" cx="618.37134"
+                class="id_Geneva" cy="-28.578518" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="2.9333332"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="14.822222" cx="-21.721092"
+                class="id_Health" cy="610.86554" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="2.5777776"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="7.6666665" cx="72.88127"
+                class="id_Organization" cy="206.26605" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.3333333"/>
+        <circle fill-opacity="1.0" fill="#0f00ef" r="7.1555557" cx="139.72485"
+                class="id_Assembly" cy="-596.74457" stroke="#0a00a7"
+                stroke-opacity="1.0" stroke-width="1.2444444"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="14.311111" cx="454.1597"
+                class="id_New" cy="412.97153" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="2.4888887"/>
+        <circle fill-opacity="1.0" fill="#0f00ef" r="6.6444445" cx="573.9529"
+                class="id_Group" cy="206.25934" stroke="#0a00a7"
+                stroke-opacity="1.0" stroke-width="1.1555556"/>
+        <circle fill-opacity="1.0" fill="#444444" r="4.6" cx="-351.71286"
+                class="id_UNDESA" cy="-516.6683" stroke="#2f2f2f"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#444444" r="5.1111107" cx="224.75826"
+                class="id_Population" cy="586.4545" stroke="#2f2f2f"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#444444" r="5.1111107" cx="-67.81462"
+                class="id_Division" cy="387.9641" stroke="#2f2f2f"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#0f00ef" r="5.6222224" cx="195.3431"
+                class="id_Children" cy="-93.52335" stroke="#0a00a7"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#0f00ef" r="5.6222224" cx="228.6967"
+                class="id_Fund" cy="364.70764" stroke="#0a00a7"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="11.755555" cx="-276.75217"
+                class="id_Global" cy="551.9141" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="2.0444443"/>
+        <circle fill-opacity="1.0" fill="#444444" r="4.6" cx="-499.8814"
+                class="id_AMR" cy="388.3634" stroke="#2f2f2f"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="10.733333" cx="-19.446642"
+                class="id_UHC" cy="-396.51135" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.8666666"/>
+        <circle fill-opacity="1.0" fill="#0f00ef" r="6.133333" cx="-219.81413"
+                class="id_Data" cy="95.445786" stroke="#0a00a7"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#444444" r="4.6" cx="-119.3103"
+                class="id_egypt" cy="-606.03845" stroke="#2f2f2f"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="8.177778" cx="340.1186"
+                class="id_Nairobi" cy="131.63246" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.4222223"/>
+        <circle fill-opacity="1.0" fill="#0f00ef" r="5.6222224" cx="-382.9177"
+                class="id_nd" cy="-56.80802" stroke="#0a00a7"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#0f00ef" r="6.6444445" cx="-296.3671"
+                class="id_Manila" cy="295.93475" stroke="#0a00a7"
+                stroke-opacity="1.0" stroke-width="1.1555556"/>
+        <circle fill-opacity="1.0" fill="#0f00ef" r="6.133333" cx="372.2985"
+                class="id_Chile" cy="-494.79596" stroke="#0a00a7"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="48" x="-555.81" y="169.22025" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fig">
+            Fig
+        </text>
+        <text font-size="48" x="-538.1491" y="-292.6529" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SDGs">
+            SDGs
+        </text>
+        <text font-size="48" x="-301.67474" y="-291.4294" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HALE">
+            HALE
+        </text>
+        <text font-size="48" x="1.5627928E-23" y="8.730469" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_World">
+            World
+        </text>
+        <text font-size="48" x="213.03232" y="-317.75153" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bank">
+            Bank
+        </text>
+        <text font-size="48" x="-621.2666" y="-54.657143" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ASDR">
+            ASDR
+        </text>
+        <text font-size="48" x="-110.17211" y="-177.99825" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kidney">
+            Kidney
+        </text>
+        <text font-size="48" x="539.29193" y="-298.68967" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_United">
+            United
+        </text>
+        <text font-size="48" x="414.90884" y="-112.70944" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nations">
+            Nations
+        </text>
+        <text font-size="48" x="618.37134" y="-19.6918" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Geneva">
+            Geneva
+        </text>
+        <text font-size="48" x="-21.721092" y="619.596" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Health">
+            Health
+        </text>
+        <text font-size="48" x="72.88127" y="217.53558" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Organization">
+            Organization
+        </text>
+        <text font-size="48" x="139.72485" y="-585.6274" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Assembly">
+            Assembly
+        </text>
+        <text font-size="48" x="454.1597" y="421.702" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_New">
+            New
+        </text>
+        <text font-size="48" x="573.9529" y="217.38434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Group">
+            Group
+        </text>
+        <text font-size="48" x="-351.71286" y="-507.78156" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_UNDESA">
+            UNDESA
+        </text>
+        <text font-size="48" x="224.75826" y="597.4311" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Population">
+            Population
+        </text>
+        <text font-size="48" x="-67.81462" y="396.69458" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Division">
+            Division
+        </text>
+        <text font-size="48" x="195.3431" y="-84.636635" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Children">
+            Children
+        </text>
+        <text font-size="48" x="228.6967" y="373.4381" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fund">
+            Fund
+        </text>
+        <text font-size="48" x="-276.75217" y="560.80084" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Global">
+            Global
+        </text>
+        <text font-size="48" x="-499.8814" y="396.95325" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_AMR">
+            AMR
+        </text>
+        <text font-size="48" x="-19.446642" y="-387.62463" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_UHC">
+            UHC
+        </text>
+        <text font-size="48" x="-219.81413" y="104.176254" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Data">
+            Data
+        </text>
+        <text font-size="48" x="-119.3103" y="-595.1127" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_egypt">
+            egypt
+        </text>
+        <text font-size="48" x="340.1186" y="140.36293" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nairobi">
+            Nairobi
+        </text>
+        <text font-size="48" x="-382.9177" y="-48.077553" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nd">
+            nd
+        </text>
+        <text font-size="48" x="-296.3671" y="304.66522" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Manila">
+            Manila
+        </text>
+        <text font-size="48" x="372.2985" y="-485.90924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Chile">
+            Chile
+        </text>
+    </g>
+</svg>

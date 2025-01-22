@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1259.8325"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-625.077942 -577.693054 1259.832520 1163.973511"
+     height="1163.9735" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_WHO id_Region"
+              d="M -301.147827,-90.796555 A 217.740673,217.740673 0,0 1,-542.080566,-135.349792"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_WHO id_UI"
+              d="M -294.831116,-85.417854 A 273.043482,273.043482 0,0 1,-539.328918,107.487968"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_WHO id_Netherlands"
+              d="M -300.937103,-99.697250 A 249.448029,249.448029 0,0 1,-427.206757,-353.077942"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_WHO id_Kiribati"
+              d="M -289.248901,-85.447182 A 384.643743,384.643743 0,0 1,-438.787476,334.118408"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_WHO id_Global"
+              d="M -282.555420,-98.048813 A 252.290741,252.290741 0,0 1,-10.364774,-8.591306"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Region id_UI"
+              d="M -543.226257,-134.398636 A 208.719144,208.719144 0,0 1,-543.503479,99.781296"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Region id_Fig"
+              d="M -539.144653,-140.993622 A 327.909329,327.909329 0,0 1,-272.030853,125.489334"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Region id_UHC"
+              d="M -545.928467,-152.055984 A 583.521756,583.521756 0,0 1,10.381668,-550.232544"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_UI id_Fig"
+              d="M -540.661377,102.912605 A 233.510962,233.510962 0,0 1,-277.970917,128.768906"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_UI id_HALE"
+              d="M -547.524780,98.078270 A 466.482983,466.482983 0,0 1,-152.544998,-275.483429"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_UI id_Netherlands"
+              d="M -552.975403,98.607994 A 405.705093,405.705093 0,0 1,-433.361206,-356.639648"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fig id_HALE"
+              d="M -273.683319,125.899971 A 359.552878,359.552878 0,0 1,-150.641205,-270.752502"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fig id_World"
+              d="M -269.500214,125.409866 A 452.366264,452.366264 0,0 1,80.955650,-267.784576"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fig id_Netherlands"
+              d="M -278.493286,129.416733 A 434.922112,434.922112 0,0 1,-428.844391,-353.488525"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fig id_C."
+              d="M -261.255249,139.285934 A 410.427611,410.427611 0,0 1,-17.772108,548.727722"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fig id_Kiribati"
+              d="M -271.366028,145.322601 A 225.091900,225.091900 0,0 1,-437.331909,337.400604"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fig id_IHR"
+              d="M -264.337463,143.275360 A 301.472334,301.472334 0,0 1,-253.536789,488.676544"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fig id_UHC"
+              d="M -272.774597,125.637192 A 620.505957,620.505957 0,0 1,11.773367,-545.004883"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fig id_SDGs"
+              d="M -275.823364,126.927917 A 549.586770,549.586770 0,0 1,-232.347931,-514.997131"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_World"
+              d="M -215.900406,-522.182556 A 337.617479,337.617479 0,0 1,88.083260,-279.514618"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_Global"
+              d="M -217.296768,-517.518616 A 472.609031,472.609031 0,0 1,-2.179003,-10.240990"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_Netherlands"
+              d="M -228.618088,-513.011719 A 213.085675,213.085675 0,0 1,-415.617188,-363.492584"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_UHC"
+              d="M -218.440811,-529.303772 A 206.497934,206.497934 0,0 1,11.644652,-554.961731"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HALE id_World"
+              d="M -134.304581,-282.278320 A 194.548815,194.548815 0,0 1,82.757256,-275.901947"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_HALE id_Bank"
+              d="M -138.348846,-285.768433 A 379.966670,379.966670 0,0 1,247.856125,-496.179535"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Bank"
+              d="M 90.900459,-279.871307 A 233.517269,233.517269 0,0 1,248.246765,-491.816986"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Geneva"
+              d="M 100.343773,-272.643158 A 408.117634,408.117634 0,0 1,545.140564,-110.013580"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_New"
+              d="M 99.753044,-265.550781 A 589.862953,589.862953 0,0 1,424.600677,345.162354"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Health"
+              d="M 93.883667,-260.381256 A 484.636313,484.636313 0,0 1,-80.164253,277.606110"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_UHC"
+              d="M 83.100220,-276.330750 A 240.766312,240.766312 0,0 1,16.701719,-540.796753"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_World id_Organization"
+              d="M 99.694138,-265.429962 A 335.951652,335.951652 0,0 1,279.010132,77.480835"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Global"
+              d="M 93.525055,-260.269714 A 238.080206,238.080206 0,0 1,3.728126,-6.225216"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Nairobi"
+              d="M 100.678909,-268.812958 A 510.956807,510.956807 0,0 1,541.613770,133.707962"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_United"
+              d="M 97.523659,-277.215515 A 308.799426,308.799426 0,0 1,445.015778,-346.679810"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Nations"
+              d="M 100.726028,-270.301117 A 191.305509,191.305509 0,0 1,279.748413,-154.412582"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bank id_New"
+              d="M 265.140656,-488.110474 A 721.553011,721.553011 0,0 1,427.443298,346.027039"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bank id_UHC"
+              d="M 248.521866,-491.063782 A 203.107101,203.107101 0,0 1,26.999634,-542.599365"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bank id_Geneva"
+              d="M 267.325470,-491.920746 A 408.578322,408.578322 0,0 1,550.605530,-111.698311"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Nations"
+              d="M 453.182831,-332.553711 A 217.444907,217.444907 0,0 1,293.167236,-147.473709"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_New"
+              d="M 459.673615,-334.204712 A 581.877927,581.877927 0,0 1,429.426361,347.275360"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_UHC"
+              d="M 444.275360,-340.675171 A 400.701075,400.701075 0,0 1,25.116829,-541.288025"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Geneva"
+              d="M 462.529999,-337.123444 A 216.217999,216.217999 0,0 1,553.062561,-111.414673"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Nairobi"
+              d="M 461.371704,-335.640747 A 411.825977,411.825977 0,0 1,547.916443,134.506729"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Nations id_New"
+              d="M 291.307617,-138.939621 A 432.766300,432.766300 0,0 1,426.663116,345.695313"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Nations id_UHC"
+              d="M 274.101593,-148.678696 A 402.429844,402.429844 0,0 1,19.831116,-540.110535"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Nations id_Geneva"
+              d="M 292.407043,-149.563828 A 225.627610,225.627610 0,0 1,543.603882,-108.748657"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Nations id_Nairobi"
+              d="M 293.229553,-143.044739 A 323.796882,323.796882 0,0 1,542.520569,133.569687"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Health"
+              d="M 546.867493,-92.460632 A 621.729152,621.729152 0,0 1,-78.318726,284.383545"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Geneva id_Organization"
+              d="M 547.362244,-92.270805 A 276.835291,276.835291 0,0 1,287.545410,87.572968"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_New"
+              d="M 554.205017,-92.334587 A 395.191660,395.191660 0,0 1,430.997101,348.864471"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Nairobi"
+              d="M 556.259644,-93.389320 A 204.430267,204.430267 0,0 1,549.609497,135.541718"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Geneva id_International"
+              d="M 548.777710,-91.884453 A 462.855257,462.855257 0,0 1,152.370361,273.769928"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_New"
+              d="M -79.465309,278.724030 A 430.339644,430.339644 0,0 1,415.971893,348.087311"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Health id_International"
+              d="M -80.342651,277.366333 A 192.389824,192.389824 0,0 1,134.071030,269.407593"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_C."
+              d="M -80.632835,289.903839 A 236.567679,236.567679 0,0 1,-15.057869,549.377075"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_Kiribati"
+              d="M -95.366249,290.506165 A 302.638690,302.638690 0,0 1,-438.143005,344.288513"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_IHR"
+              d="M -88.809151,293.440582 A 227.881562,227.881562 0,0 1,-249.521133,494.245697"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_SPAR"
+              d="M -78.276749,283.612579 A 330.490710,330.490710 0,0 1,225.902893,512.054810"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_Global"
+              d="M -91.575241,274.014923 A 246.724971,246.724971 0,0 1,-12.372957,5.627383"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_Nairobi"
+              d="M -81.692146,275.927582 A 539.299854,539.299854 0,0 1,534.426880,139.470642"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Organization id_New"
+              d="M 286.556946,91.712372 A 253.930629,253.930629 0,0 1,424.397339,345.134552"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Organization id_Global"
+              d="M 268.058563,90.529510 A 246.166194,246.166194 0,0 1,1.539513,7.479243"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Organization id_Nairobi"
+              d="M 286.704803,83.355591 A 226.570705,226.570705 0,0 1,536.819885,136.138794"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Organization id_International"
+              d="M 277.479004,97.373039 A 192.604172,192.604172 0,0 1,151.897476,271.661407"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_UHC id_International"
+              d="M 27.436138,-543.008728 A 694.971896,694.971896 0,0 1,147.134628,266.065216"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_International id_IHR"
+              d="M 138.217087,283.958893 A 382.407491,382.407491 0,0 1,-249.225708,498.204102"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_IHR id_SPAR"
+              d="M -250.786697,491.467987 A 407.176294,407.176294 0,0 1,221.076660,515.312073"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_IHR id_C."
+              d="M -249.816864,493.356720 A 206.855079,206.855079 0,0 1,-25.162306,551.035339"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_IHR id_Kiribati"
+              d="M -269.117157,496.178406 A 204.162132,204.162132 0,0 1,-444.529083,349.424011"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SPAR id_Kiribati"
+              d="M 219.525894,525.248840 A 583.278633,583.278633 0,0 1,-440.819092,347.567078"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SPAR id_C."
+              d="M 221.649750,528.561462 A 208.600468,208.600468 0,0 1,-9.807327,563.219666"
+              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-292.09045"
+                class="id_WHO" cy="-95.034966" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-549.02325"
+                class="id_Region" cy="-142.54694" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-549.31976"
+                class="id_UI" cy="107.915855" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-270.4542"
+                class="id_Fig" cy="135.36426" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-225.89027"
+                class="id_SDGs" cy="-522.6325" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-142.62271"
+                class="id_HALE" cy="-276.72775" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="90.735214"
+                class="id_World" cy="-269.87268" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="257.7698"
+                class="id_Bank" cy="-494.86847" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="454.1054"
+                class="id_United" cy="-342.51105" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="283.4477"
+                class="id_Nations" cy="-145.12198" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="550.69604"
+                class="id_Geneva" cy="-101.69872" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-88.275505"
+                class="id_Health" cy="283.45483" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="277.5474"
+                class="id_Organization" cy="87.373276" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="423.14417"
+                class="id_New" cy="355.05573" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-4.4767327"
+                class="id_Global" cy="-0.5085475" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-425.60236"
+                class="id_Netherlands" cy="-362.9484" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="20.380728"
+                class="id_UHC" cy="-550.0954" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="142.43343"
+                class="id_International" cy="274.89124" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-259.1473"
+                class="id_IHR" cy="496.95435" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="228.84163"
+                class="id_SPAR" cy="521.6133" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-18.718954"
+                class="id_C." cy="558.6828" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-447.05258"
+                class="id_Kiribati" cy="339.74765" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="543.57294"
+                class="id_Nairobi" cy="143.51416" stroke="#a70700"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="48" x="-292.09045" y="-86.14434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_WHO">
+            WHO
+        </text>
+        <text font-size="48" x="-549.02325" y="-131.42975" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Region">
+            Region
+        </text>
+        <text font-size="48" x="-549.31976" y="116.65414" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_UI">
+            UI
+        </text>
+        <text font-size="48" x="-270.4542" y="146.48145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fig">
+            Fig
+        </text>
+        <text font-size="48" x="-225.89027" y="-513.7458" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SDGs">
+            SDGs
+        </text>
+        <text font-size="48" x="-142.62271" y="-268.1379" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_HALE">
+            HALE
+        </text>
+        <text font-size="48" x="90.735214" y="-261.1422" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_World">
+            World
+        </text>
+        <text font-size="48" x="257.7698" y="-486.138" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bank">
+            Bank
+        </text>
+        <text font-size="48" x="454.1054" y="-333.77277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_United">
+            United
+        </text>
+        <text font-size="48" x="283.4477" y="-136.39151" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nations">
+            Nations
+        </text>
+        <text font-size="48" x="550.69604" y="-92.812004" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Geneva">
+            Geneva
+        </text>
+        <text font-size="48" x="-88.275505" y="292.1853" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Health">
+            Health
+        </text>
+        <text font-size="48" x="277.5474" y="98.64281" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Organization">
+            Organization
+        </text>
+        <text font-size="48" x="423.14417" y="363.7862" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_New">
+            New
+        </text>
+        <text font-size="48" x="-4.4767327" y="8.378171" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Global">
+            Global
+        </text>
+        <text font-size="48" x="-425.60236" y="-354.21793" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Netherlands">
+            Netherlands
+        </text>
+        <text font-size="48" x="20.380728" y="-541.2087" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_UHC">
+            UHC
+        </text>
+        <text font-size="48" x="142.43343" y="283.6217" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_International">
+            International
+        </text>
+        <text font-size="48" x="-259.1473" y="505.5442" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_IHR">
+            IHR
+        </text>
+        <text font-size="48" x="228.84163" y="530.5" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_SPAR">
+            SPAR
+        </text>
+        <text font-size="48" x="-18.718954" y="567.5695" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_C.">
+            C.
+        </text>
+        <text font-size="48" x="-447.05258" y="348.47812" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kiribati">
+            Kiribati
+        </text>
+        <text font-size="48" x="543.57294" y="152.24463" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nairobi">
+            Nairobi
+        </text>
+    </g>
+</svg>
