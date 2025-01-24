@@ -1,303 +1,2064 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
     "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-<svg contentScriptType="text/ecmascript" width="408.0"
+<svg contentScriptType="text/ecmascript" width="939.0"
      xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
      contentStyleType="text/css"
-     viewBox="-202.000000 -43.000000 408.000000 406.000000" height="406.0"
+     viewBox="-577.000000 -475.000000 939.000000 1101.000000" height="1101.0"
      preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
      version="1.1">
     <g id="edges">
         <path stroke-linecap="round" fill="none" class="id_WHO id_Region"
-              d="M -100.385727,100.474419 A 48.115693,48.115693 0,0 1,-139.908478,91.278542"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 79.828766,-130.147415 A 59.113189,59.113189 0,0 1,42.086891,-169.426834"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_WHO id_UI"
-              d="M -100.035667,101.403198 A 85.657110,85.657110 0,0 1,-184.835617,86.409180"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 80.056297,-130.948959 A 89.815677,89.815677 0,0 1,24.057465,-201.628662"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_WHO id_Netherlands"
-              d="M -100.783348,96.142532 A 88.323195,88.323195 0,0 1,-168.263351,37.601578"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 79.655235,-126.068985 A 100.987971,100.987971 0,0 1,-14.783137,-171.067352"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_WHO id_Kingdom"
+              d="M 81.063538,-122.194260 A 90.920489,90.920489 0,0 1,-14.062790,-128.359772"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_WHO id_Kiribati"
-              d="M -86.935150,106.611832 A 164.435126,164.435126 0,0 1,-124.523613,283.629669"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 94.650101,-137.187180 A 145.050005,145.050005 0,0 1,226.454346,-214.803040"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_WHO id_Data"
+              d="M 88.718643,-117.201714 A 90.736417,90.736417 0,0 1,25.124372,-47.125622"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_WHO id_Regional"
+              d="M 87.512833,-117.431572 A 134.354815,134.354815 0,0 1,-23.933512,-22.098776"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_WHO id_Center"
+              d="M 100.642715,-127.864052 A 149.733156,149.733156 0,0 1,236.659500,-35.020271"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_WHO id_Global"
-              d="M -81.496254,100.913475 A 62.130951,62.130951 0,0 1,-46.584309,146.781876"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 83.972282,-119.065285 A 33.540489,33.540489 0,0 1,66.930359,-109.736145"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_WHO id_Action"
+              d="M 96.791046,-119.513062 A 84.636532,84.636532 0,0 1,104.097549,-32.542168"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_WHO id_Plan"
+              d="M 98.196754,-134.426910 A 82.578096,82.578096 0,0 1,183.135071,-141.957581"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Region id_ASDR"
+              d="M 45.470718,-170.943954 A 87.291759,87.291759 0,0 1,47.322086,-78.117050"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Region id_MDG"
+              d="M 36.106602,-170.239273 A 91.801767,91.801767 0,0 1,-49.018227,-125.022865"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Region id_European"
+              d="M 43.036373,-186.549637 A 60.632373,60.632373 0,0 1,87.480347,-222.720337"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Region id_UI"
-              d="M -156.296829,88.261620 A 37.698735,37.698735 0,0 1,-183.927414,85.305595"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 32.901211,-183.159210 A 31.722389,31.722389 0,0 1,23.036396,-201.590973"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Region id_Hepatitis"
+              d="M 35.829029,-185.845291 A 114.554248,114.554248 0,0 1,47.615952,-309.529114"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Region id_Fig"
-              d="M -139.237259,90.508446 A 35.251680,35.251680 0,0 1,-129.507751,113.278603"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 48.723461,-180.714539 A 44.427422,44.427422 0,0 1,83.451973,-173.116760"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Region id_UHC"
-              d="M -141.019424,76.393738 A 139.446749,139.446749 0,0 1,2.732373,30.447058"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 44.894798,-170.556213 A 135.465337,135.465337 0,0 1,38.060486,-25.058926"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_UI id_Fig"
-              d="M -182.097382,80.050331 A 62.946781,62.946781 0,0 1,-134.278961,113.980965"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 33.707893,-211.800552 A 69.433623,69.433623 0,0 1,87.254929,-175.784332"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_UI id_HALE"
-              d="M -183.354065,74.640602 A 129.544558,129.544558 0,0 1,-44.981983,87.861450"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 31.709763,-205.958191 A 121.819860,121.819860 0,0 1,74.287422,-80.961876"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_UI id_UMR"
+              d="M 13.008874,-209.244919 A 83.115047,83.115047 0,0 1,-67.599152,-236.103882"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_UI id_CDR"
+              d="M 25.637293,-222.406082 A 36.668725,36.668725 0,0 1,47.344723,-243.288284"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_UI id_.%"
+              d="M 13.596285,-207.674408 A 32.782232,32.782232 0,0 1,-11.566329,-210.740158"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_UI id_Netherlands"
-              d="M -193.539993,69.625893 A 46.441636,46.441636 0,0 1,-178.911026,33.979958"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 19.161976,-202.375885 A 44.984320,44.984320 0,0 1,-10.219244,-180.307236"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_UI id_ART"
+              d="M 17.224333,-220.875748 A 28.596902,28.596902 0,0 1,16.375881,-241.558945"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_UI id_ITN"
+              d="M 12.898884,-214.629898 A 29.809499,29.809499 0,0 1,-2.613883,-230.509949"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_UI id_European"
+              d="M 31.127401,-219.067398 A 62.183282,62.183282 0,0 1,88.206123,-227.557388"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Fig id_HALE"
-              d="M -124.132004,115.504417 A 81.278016,81.278016 0,0 1,-46.942776,91.533195"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 95.991287,-154.157654 A 77.174908,77.174908 0,0 1,77.333115,-79.129074"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fig id_NCD"
+              d="M 85.845322,-175.051529 A 26.163811,26.163811 0,0 1,85.849426,-191.658966"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Fig id_World"
-              d="M -123.359901,116.209488 A 177.022151,177.022151 0,0 1,70.128693,84.349838"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 98.512146,-155.465469 A 159.176451,159.176451 0,0 1,101.798828,9.264214"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Fig id_Netherlands"
-              d="M -138.823532,117.719009 A 86.248808,86.248808 0,0 1,-172.754303,37.793293"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 81.441345,-159.959305 A 93.670651,93.670651 0,0 1,-12.490157,-172.973099"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Fig id_C."
-              d="M -121.737419,128.085938 A 211.881032,211.881032 0,0 1,-19.513834,342.990845"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 102.253204,-170.504929 A 161.481241,161.481241 0,0 1,275.085999,-149.131546"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Fig id_Kiribati"
-              d="M -124.838387,131.487915 A 139.341044,139.341044 0,0 1,-126.074715,282.271820"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 99.049744,-174.324371 A 130.993037,130.993037 0,0 1,226.963562,-217.709656"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Fig id_IHR"
-              d="M -122.019676,128.562622 A 148.188153,148.188153 0,0 1,-59.343899,277.328888"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 102.177834,-170.646408 A 108.828451,108.828451 0,0 1,211.993027,-160.912018"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fig id_SDG"
+              d="M 80.253120,-165.224747 A 151.978232,151.978232 0,0 1,-54.498569,-263.730774"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Fig id_UHC"
-              d="M -126.574837,114.025253 A 140.573471,140.573471 0,0 1,2.301511,32.923534"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 94.375885,-153.685486 A 134.370493,134.370493 0,0 1,40.670010,-22.246523"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Fig id_GPW"
+              d="M 92.216118,-176.753418 A 120.197520,120.197520 0,0 1,169.998276,-280.453186"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Fig id_SDGs"
-              d="M -133.010941,113.556831 A 138.341123,138.341123 0,0 1,-81.511887,-26.884787"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 87.752136,-154.193359 A 152.069569,152.069569 0,0 1,-45.312691,-61.997242"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_Sustainable"
+              d="M -55.559002,-49.015659 A 45.836196,45.836196 0,0 1,-68.831230,-12.567476"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_Development"
+              d="M -46.000397,-57.759892 A 96.998974,96.998974 0,0 1,13.526186,22.342623"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_Figure"
+              d="M -68.291473,-52.781116 A 29.359492,29.359492 0,0 1,-86.880379,-48.938934"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_Newborn"
+              d="M -70.438927,-55.765358 A 44.095069,44.095069 0,0 1,-107.412895,-59.524837"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_SDGs id_World"
-              d="M -63.344494,-32.034199 A 162.375049,162.375049 0,0 1,76.304855,79.123672"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M -45.341194,-62.858139 A 144.429722,144.429722 0,0 1,81.760757,8.038052"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_MDG"
+              d="M -64.901146,-73.761734 A 53.244382,53.244382 0,0 1,-61.143684,-119.432823"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_SDGs id_Global"
-              d="M -66.459595,-25.360394 A 159.480330,159.480330 0,0 1,-41.203922,147.815735"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M -51.186565,-73.038147 A 102.011549,102.011549 0,0 1,41.587055,-111.850822"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_SDGs id_Netherlands"
-              d="M -77.440407,-23.514952 A 95.730638,95.730638 0,0 1,-160.930771,28.318575"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M -62.036427,-74.881783 A 102.949444,102.949444 0,0 1,-27.107166,-173.464920"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_Kingdom"
+              d="M -59.023895,-75.314690 A 67.121808,67.121808 0,0 1,-24.410767,-129.361374"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_Box"
+              d="M -59.380367,-48.673615 A 177.830079,177.830079 0,0 1,-184.332870,104.904663"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_RMNCH"
+              d="M -45.312702,-62.007198 A 31.532925,31.532925 0,0 1,-27.309471,-50.876003"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_Progress"
+              d="M -71.675110,-59.154652 A 89.857524,89.857524 0,0 1,-156.593109,-94.912178"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_Triple"
+              d="M -70.585411,-56.051331 A 87.377475,87.377475 0,0 1,-158.726990,-69.405060"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_SDGs id_UHC"
-              d="M -63.350452,-31.941574 A 90.094105,90.094105 0,0 1,9.088413,23.912411"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M -45.364498,-63.161034 A 83.975108,83.975108 0,0 1,25.122559,-25.944275"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDGs id_Poverty"
+              d="M -71.971870,-61.540035 A 44.875385,44.875385 0,0 1,-104.384010,-81.602371"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sustainable id_Agenda"
+              d="M -67.833817,-6.826746 A 55.718909,55.718909 0,0 1,-35.578434,38.627499"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Development id_Agenda"
+              d="M 9.842896,34.242836 A 43.608874,43.608874 0,0 1,-27.796909,48.063225"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Development id_Geneva"
+              d="M 19.928902,31.954767 A 97.593978,97.593978 0,0 1,71.136070,113.373932"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Development id_Ministry"
+              d="M 18.291821,23.932207 A 150.135238,150.135238 0,0 1,179.573532,-17.651764"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_HALE id_World"
-              d="M -29.313295,88.333214 A 97.160539,97.160539 0,0 1,70.568161,83.541687"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 77.203735,-69.818436 A 85.081256,85.081256 0,0 1,97.510071,7.104215"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_HALE id_Bank"
-              d="M -31.105543,86.481766 A 139.439437,139.439437 0,0 1,113.469490,43.225746"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 76.446762,-69.169205 A 122.103267,122.103267 0,0 1,79.466316,65.514038"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_World id_Bank"
-              d="M 81.670990,79.047752 A 50.814887,50.814887 0,0 1,113.219971,48.557503"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 92.067284,45.872265 A 40.513949,40.513949 0,0 1,81.080467,66.970230"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_ASDR"
+              d="M 74.216171,14.625148 A 91.391452,91.391452 0,0 1,43.338390,-67.978104"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Kidney"
+              d="M 70.786110,27.502090 A 37.702292,37.702292 0,0 1,50.657711,16.562548"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_World id_Geneva"
-              d="M 85.543236,81.050163 A 101.285142,101.285142 0,0 1,186.433212,52.071461"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 97.407135,44.767555 A 89.775393,89.775393 0,0 1,82.515877,118.053398"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Group"
+              d="M 110.569664,23.443727 A 107.150277,107.150277 0,0 1,204.128082,72.841652"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_UNDESA"
+              d="M 74.188484,37.169228 A 45.245226,45.245226 0,0 1,41.858902,37.469704"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Population"
+              d="M 110.388786,29.559740 A 70.614265,70.614265 0,0 1,154.823212,74.162476"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Division"
+              d="M 110.713982,25.309036 A 58.904150,58.904150 0,0 1,151.782654,51.395790"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_World id_New"
-              d="M 89.103233,88.070877 A 113.016289,113.016289 0,0 1,191.596085,148.742554"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 110.200447,30.460421 A 102.421362,102.421362 0,0 1,175.019104,96.752541"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_World id_Health"
-              d="M 82.955589,97.954910 A 109.752129,109.752129 0,0 1,59.540104,210.722000"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 96.094284,6.652178 A 101.817744,101.817744 0,0 1,163.983841,-54.668766"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Assembly"
+              d="M 78.693726,41.895302 A 61.423732,61.423732 0,0 1,31.915756,58.722027"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_AMR"
+              d="M 84.890221,45.047977 A 51.929729,51.929729 0,0 1,53.312634,70.557640"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_World id_UHC"
-              d="M 69.192833,87.548325 A 72.305079,72.305079 0,0 1,15.293475,42.924332"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 70.895294,23.299690 A 60.769212,60.769212 0,0 1,35.622326,-5.144216"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Data"
+              d="M 71.374428,20.855507 A 84.537732,84.537732 0,0 1,19.894915,-38.933861"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_World id_Organization"
-              d="M 87.809975,93.673531 A 29.424568,29.424568 0,0 1,97.395912,108.318222"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 110.083633,20.900003 A 40.598426,40.598426 0,0 1,132.486893,27.514875"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_egypt"
+              d="M 79.742180,42.633232 A 34.619107,34.619107 0,0 1,62.367958,50.357559"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_World id_Global"
-              d="M 74.590256,97.631111 A 118.470505,118.470505 0,0 1,-35.761261,157.765106"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 76.079163,12.295765 A 116.922196,116.922196 0,0 1,50.072224,-97.431458"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_World id_Nairobi"
-              d="M 88.682564,85.779030 A 54.023200,54.023200 0,0 1,134.953033,97.717796"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 106.285004,38.480576 A 40.231970,40.231970 0,0 1,114.137474,59.417847"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_World id_United"
-              d="M 81.909439,79.113716 A 82.325036,82.325036 0,0 1,144.387619,25.865509"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 106.478043,38.237629 A 99.691285,99.691285 0,0 1,136.365524,123.015564"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_World id_Nations"
-              d="M 85.179756,80.759987 A 72.935337,72.935337 0,0 1,151.738495,56.807652"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 108.055367,35.897316 A 71.484080,71.484080 0,0 1,135.542114,90.934975"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Children"
+              d="M 103.566002,41.249256 A 73.832814,73.832814 0,0 1,109.874603,107.329826"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Fund"
+              d="M 100.712547,43.244156 A 54.852089,54.852089 0,0 1,97.917831,86.321938"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_nd"
+              d="M 98.654022,7.557124 A 38.051000,38.051000 0,0 1,117.047302,-5.024759"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Manila"
+              d="M 75.108856,13.419837 A 41.049962,41.049962 0,0 1,66.764503,-10.139536"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_World id_Chile"
+              d="M 87.995972,45.730656 A 72.744093,72.744093 0,0 1,44.730740,93.645172"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Bank id_New"
-              d="M 132.207520,50.175674 A 110.966767,110.966767 0,0 1,196.023712,147.804428"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 82.682533,70.165787 A 92.393649,92.393649 0,0 1,169.214554,99.455040"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Bank id_UHC"
-              d="M 114.069908,50.898643 A 92.863690,92.863690 0,0 1,19.899395,39.874966"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 68.320908,68.173820 A 81.898889,81.898889 0,0 1,29.696104,-4.224082"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Bank id_Geneva"
-              d="M 132.012741,42.069462 A 61.252350,61.252350 0,0 1,188.180435,48.859871"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 78.736626,78.843452 A 49.935720,49.935720 0,0 1,79.684120,115.961784"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bank id_Chile"
+              d="M 71.677521,78.937599 A 36.466381,36.466381 0,0 1,45.090084,95.647247"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MMR id_ARR"
+              d="M -91.762276,-298.514648 A 22.262402,22.262402 0,0 1,-90.166153,-282.047150"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MMR id_SDG"
+              d="M -89.402214,-302.367920 A 41.716116,41.716116 0,0 1,-59.047394,-277.438751"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_ARR id_SDG"
+              d="M -86.989189,-278.729370 A 30.237241,30.237241 0,0 1,-62.450165,-275.136902"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_ARR id_UMR"
+              d="M -87.255424,-273.634247 A 33.625738,33.625738 0,0 1,-72.076317,-248.990616"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDG id_UMR"
+              d="M -56.696808,-263.332672 A 27.130053,27.130053 0,0 1,-66.017410,-245.694077"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SDG id_Midway"
+              d="M -63.119137,-274.172089 A 21.786492,21.786492 0,0 1,-70.751251,-287.582764"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MDG id_UMR"
+              d="M -61.967651,-131.621429 A 97.437931,97.437931 0,0 1,-75.382301,-235.345596"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MDG id_DAH"
+              d="M -64.414711,-124.520683 A 28.616818,28.616818 0,0 1,-86.038506,-133.258636"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MDG id_AAAA"
+              d="M -56.870071,-118.075005 A 42.286878,42.286878 0,0 1,-78.932541,-85.335892"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MDG id_UHC"
+              d="M -49.293411,-123.645576 A 117.242033,117.242033 0,0 1,30.007187,-27.455544"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_UMR id_NMR"
+              d="M -79.230789,-240.758408 A 24.220051,24.220051 0,0 1,-96.213142,-247.934280"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_United id_Nations"
-              d="M 160.578064,32.431137 A 29.317937,29.317937 0,0 1,164.115204,49.436565"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 128.062088,123.657990 A 32.073942,32.073942 0,0 1,130.767151,106.312416"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Decade"
+              d="M 135.618118,152.528000 A 30.297062,30.297062 0,0 1,128.276352,169.538834"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Action"
+              d="M 122.729301,127.087166 A 139.626103,139.626103 0,0 1,98.168587,-20.609316"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Road"
+              d="M 147.957687,141.005234 A 47.356333,47.356333 0,0 1,175.204788,169.774597"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Safety"
+              d="M 141.639374,150.189362 A 44.410014,44.410014 0,0 1,141.650208,186.202469"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_United id_New"
-              d="M 162.161957,30.832779 A 116.238806,116.238806 0,0 1,198.767395,148.244019"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 141.577484,125.178154 A 43.382916,43.382916 0,0 1,163.010147,112.763298"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Inter"
+              d="M 136.752670,152.307465 A 53.188996,53.188996 0,0 1,120.023506,195.961182"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_agency"
+              d="M 128.880646,152.030594 A 37.694993,37.694993 0,0 1,107.535194,169.749603"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Group"
+              d="M 138.544312,123.641426 A 79.002994,79.002994 0,0 1,200.605148,79.554451"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Child"
+              d="M 141.511749,150.273407 A 62.701045,62.701045 0,0 1,139.976486,208.574265"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Mortality"
+              d="M 145.693802,146.190887 A 52.289996,52.289996 0,0 1,162.362106,188.692200"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Estimation"
+              d="M 145.126587,146.963425 A 32.522861,32.522861 0,0 1,152.213898,167.065277"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_United id_UHC"
-              d="M 146.429489,30.791386 A 118.575257,118.575257 0,0 1,20.868923,38.525440"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 119.439758,132.030746 A 153.786234,153.786234 0,0 1,30.726799,-4.160474"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_United id_Geneva"
-              d="M 164.256165,25.692713 A 43.019652,43.019652 0,0 1,191.946945,45.997177"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 119.543762,143.625916 A 52.794963,52.794963 0,0 1,85.750648,141.488586"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_General"
+              d="M 118.499756,139.984589 A 115.629281,115.629281 0,0 1,10.341251,86.120438"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_United id_Assembly"
+              d="M 118.348801,136.866928 A 112.764367,112.764367 0,0 1,26.721346,65.038414"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_United id_Nairobi"
-              d="M 158.354141,33.784431 A 67.692627,67.692627 0,0 1,148.512680,97.416382"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 122.648598,127.168327 A 60.071701,60.071701 0,0 1,111.249199,76.804764"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_United id_Statistical"
+              d="M 144.012436,127.178696 A 71.129440,71.129440 0,0 1,209.458405,114.926033"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Nations id_New"
-              d="M 169.438095,65.132843 A 87.105512,87.105512 0,0 1,198.314529,148.116379"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 143.286209,97.210968 A 37.616115,37.616115 0,0 1,166.837982,101.657356"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Nations id_UHC"
-              d="M 152.400482,63.280670 A 126.152021,126.152021 0,0 1,19.439045,40.378834"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 127.082748,97.416046 A 129.419894,129.419894 0,0 1,32.531487,-4.269243"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Nations id_Geneva"
-              d="M 169.825363,53.578060 A 28.907148,28.907148 0,0 1,186.571640,51.674389"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 130.973328,106.438164 A 60.495705,60.495705 0,0 1,88.583878,132.206268"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Nations id_Nairobi"
-              d="M 162.664368,69.011307 A 41.533062,41.533062 0,0 1,149.891800,98.908684"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 127.729004,95.588501 A 31.348898,31.348898 0,0 1,114.752724,77.143631"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nations id_Statistical"
+              d="M 143.000107,96.304420 A 69.197302,69.197302 0,0 1,211.265396,112.181664"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_Addis"
+              d="M 96.293793,-21.880047 A 126.502274,126.502274 0,0 1,-42.170731,4.360192"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Action id_National"
+              d="M 104.197456,-32.486824 A 120.940229,120.940229 0,0 1,220.114792,-90.413292"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_CDR id_European"
+              d="M 58.210747,-245.484802 A 40.738673,40.738673 0,0 1,91.530502,-231.579178"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_European id_Health"
+              d="M 105.176933,-219.301712 A 154.700922,154.700922 0,0 1,181.866959,-73.682053"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_European id_Interview"
+              d="M 96.636124,-233.226929 A 30.381917,30.381917 0,0 1,108.884293,-253.802856"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_European id_Survey"
+              d="M 106.308609,-223.698547 A 71.741540,71.741540 0,0 1,166.495926,-181.277512"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_European id_Union"
+              d="M 88.190987,-227.522446 A 38.949863,38.949863 0,0 1,69.190262,-256.229004"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_European id_Income"
+              d="M 91.323631,-231.433487 A 44.624657,44.624657 0,0 1,89.691154,-272.727844"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_European id_Living"
+              d="M 91.220520,-231.357712 A 24.950406,24.950406 0,0 1,89.544571,-248.514420"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Eastern id_Mediterranean"
+              d="M -218.902710,-115.948524 A 21.071837,21.071837 0,0 1,-234.105881,-121.292053"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Eastern id_Progress"
+              d="M -208.088654,-118.458626 A 47.063867,47.063867 0,0 1,-163.200089,-103.837425"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Geneva id_Health"
-              d="M 194.866425,65.105934 A 180.715554,180.715554 0,0 1,62.081772,215.377792"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 68.997688,113.396255 A 182.325394,182.325394 0,0 1,165.279022,-50.737793"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Geneva id_Organization"
-              d="M 192.007126,64.356934 A 96.766303,96.766303 0,0 1,108.460709,118.434677"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 71.265450,113.380592 A 100.363390,100.363390 0,0 1,131.163742,35.715683"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Geneva id_New"
-              d="M 201.455795,63.507252 A 85.532115,85.532115 0,0 1,201.360245,149.471619"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 83.991356,119.541100 A 91.730152,91.730152 0,0 1,164.084045,106.164223"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Joint"
+              d="M 67.340240,149.785889 A 49.907158,49.907158 0,0 1,40.210201,178.720993"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Programme"
+              d="M 58.107452,145.414917 A 122.583448,122.583448 0,0 1,-64.920403,174.221252"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_HTM"
+              d="M 70.830673,150.010605 A 32.509275,32.509275 0,0 1,61.643871,165.501923"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_TB"
+              d="M 80.629997,146.803467 A 36.335728,36.335728 0,0 1,81.239517,169.628525"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_hbsag"
+              d="M 75.970573,149.106796 A 52.979054,52.979054 0,0 1,63.990688,190.859299"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Children"
+              d="M 82.446892,117.991684 A 34.693456,34.693456 0,0 1,101.337357,112.391830"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Fund"
+              d="M 72.872398,113.540268 A 39.185373,39.185373 0,0 1,89.365402,94.295082"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Geneva id_Nairobi"
-              d="M 193.323563,64.814888 A 61.215500,61.215500 0,0 1,151.730469,103.101608"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 72.130783,113.448799 A 64.101522,64.101522 0,0 1,105.633118,71.716888"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Geneva id_International"
-              d="M 192.701080,64.623970 A 135.042287,135.042287 0,0 1,75.397209,150.903946"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 67.773956,113.521942 A 144.332270,144.332270 0,0 1,137.875397,-20.917971"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Geneva id_Reconstruction"
+              d="M 61.122700,147.581451 A 52.739717,52.739717 0,0 1,22.332457,166.467606"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Geneva id_Meteorological"
+              d="M 54.839439,141.604950 A 41.957103,41.957103 0,0 1,24.996162,141.239960"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Federation"
+              d="M 80.613266,146.814926 A 66.564710,66.564710 0,0 1,80.271133,206.843414"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Red"
+              d="M 66.504524,149.631226 A 67.802414,67.802414 0,0 1,21.816099,191.934464"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Cross"
+              d="M 72.033279,149.933380 A 65.926435,65.926435 0,0 1,43.180927,201.686661"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Crescent"
+              d="M 76.700027,148.850433 A 72.912582,72.912582 0,0 1,59.929165,214.488144"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_Societies"
+              d="M 83.514015,144.350632 A 54.106888,54.106888 0,0 1,92.898415,188.177078"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Geneva id_nha"
+              d="M 59.941204,146.841293 A 32.377556,32.377556 0,0 1,43.554523,153.903168"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Health id_New"
-              d="M 57.749458,209.254211 A 129.558202,129.558202 0,0 1,186.047791,155.721741"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 188.622681,-44.218246 A 141.343226,141.343226 0,0 1,187.272583,99.029495"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Health id_International"
-              d="M 48.816086,208.314423 A 56.465109,56.465109 0,0 1,58.594265,158.506790"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 173.898514,-42.714481 A 40.166640,40.166640 0,0 1,152.274033,-26.316465"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Health id_C."
-              d="M 53.404228,227.613998 A 128.259463,128.259463 0,0 1,-12.337317,348.329071"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 184.971985,-72.963852 A 111.275796,111.275796 0,0 1,272.012054,-139.941696"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Health id_Kiribati"
-              d="M 46.856258,226.027008 A 165.042031,165.042031 0,0 1,-122.130402,292.782593"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 176.453323,-73.461502 A 139.752128,139.752128 0,0 1,229.073288,-205.151123"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Health id_IHR"
-              d="M 48.230217,226.782776 A 111.083281,111.083281 0,0 1,-51.451233,287.612427"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 177.657562,-73.670364 A 86.749957,86.749957 0,0 1,211.284424,-145.846161"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_National"
+              d="M 188.292496,-71.398392 A 50.665590,50.665590 0,0 1,219.973495,-88.438538"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Health id_SPAR"
-              d="M 56.254627,226.875275 A 108.834021,108.834021 0,0 1,34.018887,338.753418"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 189.844757,-70.304955 A 110.099368,110.099368 0,0 1,294.707733,-103.042412"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_Glob"
+              d="M 170.984879,-71.184502 A 32.196911,32.196911 0,0 1,170.262466,-89.392517"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Health id_Global"
-              d="M 42.354328,218.025299 A 96.202897,96.202897 0,0 1,-41.600945,165.860748"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 163.958847,-54.802139 A 113.270742,113.270742 0,0 1,61.289249,-98.939667"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Health id_Nairobi"
-              d="M 53.041084,207.693985 A 119.990331,119.990331 0,0 1,132.336319,107.848640"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 181.305862,-41.662025 A 118.523542,118.523542 0,0 1,121.713837,64.177254"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_Adolesc"
+              d="M 194.844498,-63.485096 A 30.175739,30.175739 0,0 1,211.798584,-60.162979"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_BMJ"
+              d="M 164.511658,-62.766041 A 48.655467,48.655467 0,0 1,140.169785,-93.460815"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_nd"
+              d="M 174.753448,-42.405071 A 63.797268,63.797268 0,0 1,129.059875,-7.220931"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_Papua"
+              d="M 195.159286,-52.818226 A 96.427424,96.427424 0,0 1,253.830902,22.844948"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_Provincial"
+              d="M 195.622803,-60.771751 A 124.281573,124.281573 0,0 1,314.643311,-6.577487"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_Center"
+              d="M 195.909195,-58.227459 A 55.600031,55.600031 0,0 1,235.482056,-34.454884"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_Manila"
+              d="M 169.875900,-45.016663 A 99.700975,99.700975 0,0 1,74.149536,-15.470708"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Health id_Ministry"
+              d="M 189.303131,-44.688469 A 37.162487,37.162487 0,0 1,191.886169,-23.589228"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_Organization id_New"
-              d="M 108.261650,116.268478 A 87.574523,87.574523 0,0 1,190.193542,149.541626"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 146.189285,36.906898 A 73.738133,73.738133 0,0 1,179.692368,96.390984"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Organization id_Global"
-              d="M 91.969116,125.866447 A 124.348864,124.348864 0,0 1,-36.289562,160.101364"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 131.348724,29.367525 A 138.048281,138.048281 0,0 1,53.390602,-96.784775"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Organization id_Nairobi"
-              d="M 105.363014,111.023880 A 37.865291,37.865291 0,0 1,132.122040,102.801178"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 138.233917,41.067879 A 36.263808,36.263808 0,0 1,121.901344,64.556961"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Organization id_Manila"
+              d="M 130.626480,32.573177 A 72.954499,72.954499 0,0 1,69.769676,-10.609551"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none"
               class="id_Organization id_International"
-              d="M 95.766006,127.890877 A 38.879724,38.879724 0,0 1,75.042183,148.526062"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 135.273636,25.291204 A 48.137262,48.137262 0,0 1,139.884430,-18.579294"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Agenda id_General"
+              d="M -27.672075,47.321407 A 45.250230,45.250230 0,0 1,4.839988,74.051712"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Agenda id_Assembly"
+              d="M -28.171192,43.521481 A 50.550694,50.550694 0,0 1,18.535784,52.356567"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agenda id_Immunization"
+              d="M -39.771027,52.833378 A 28.014500,28.014500 0,0 1,-60.399944,62.024868"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Agenda id_Addis"
+              d="M -41.093513,41.109165 A 38.852375,38.852375 0,0 1,-50.064899,7.991333"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_General id_Assembly"
+              d="M 7.946699,73.774132 A 23.746966,23.746966 0,0 1,17.178497,61.005592"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_General id_UHC"
+              d="M 4.627698,74.127319 A 82.610947,82.610947 0,0 1,22.423779,-7.840021"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Assembly id_UHC"
+              d="M 20.554502,50.811714 A 61.508157,61.508157 0,0 1,23.964859,-6.465539"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Assembly id_nd"
+              d="M 27.178152,50.489292 A 98.120488,98.120488 0,0 1,116.901062,-6.599694"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_York"
+              d="M 191.893265,119.886276 A 29.431638,29.431638 0,0 1,199.594650,134.917404"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Children"
+              d="M 165.091507,119.718094 A 59.270380,59.270380 0,0 1,112.544868,116.264786"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Fund"
+              d="M 163.667419,116.456284 A 71.760219,71.760219 0,0 1,98.939461,96.155922"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Group"
+              d="M 183.110306,97.034325 A 36.663712,36.663712 0,0 1,200.906448,81.176262"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Department"
+              d="M 188.232254,99.735397 A 57.852349,57.852349 0,0 1,237.322952,84.397888"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Economic"
+              d="M 192.451691,118.867714 A 103.775879,103.775879 0,0 1,242.806641,213.294922"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Social"
+              d="M 177.043732,96.420700 A 54.973028,54.973028 0,0 1,199.870255,54.285851"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Population"
+              d="M 165.422623,103.545792 A 32.720660,32.720660 0,0 1,156.600464,85.049194"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Division"
+              d="M 166.407242,102.171295 A 50.538369,50.538369 0,0 1,153.591385,61.646667"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_New id_UNIGME--Child-Mortality-Report.pdf"
+              d="M 193.967377,113.911797 A 44.782389,44.782389 0,0 1,221.067062,137.540634"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_en&amp;v"
+              d="M 191.152466,121.011627 A 48.392300,48.392300 0,0 1,205.131409,158.896149"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Delhi"
+              d="M 185.005402,126.053108 A 31.770486,31.770486 0,0 1,182.312149,145.700668"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_New id_Papua"
+              d="M 181.516846,96.635498 A 92.790587,92.790587 0,0 1,247.010178,32.260227"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Group id_Policy"
+              d="M 208.334808,71.851685 A 137.371020,137.371020 0,0 1,306.291534,-46.364346"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Group id_Statistical"
+              d="M 212.728470,84.343468 A 32.734094,32.734094 0,0 1,218.485626,110.558556"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Department id_Papua"
+              d="M 240.742584,80.357491 A 46.842646,46.842646 0,0 1,249.175858,36.153305"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Economic id_Paris"
+              d="M 247.347290,221.302383 A 59.627314,59.627314 0,0 1,277.992126,275.070801"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Social id_Ministry"
+              d="M 200.443893,47.520912 A 55.971868,55.971868 0,0 1,185.763824,-4.550015"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Global id_Antimicrobial"
+              d="M 41.447952,-108.188545 A 31.042619,31.042619 0,0 1,22.050980,-117.724869"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Global id_Resistance"
+              d="M 42.546249,-114.881035 A 47.506095,47.506095 0,0 1,20.726061,-150.575974"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Global id_Use"
+              d="M 48.942627,-121.206436 A 35.302930,35.302930 0,0 1,53.027504,-147.780289"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Global id_Surveillance"
+              d="M 62.034012,-119.598465 A 96.732371,96.732371 0,0 1,158.682388,-148.595947"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Global id_System"
+              d="M 43.395832,-116.434021 A 27.079845,27.079845 0,0 1,36.147293,-131.445816"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Global id_Polio"
+              d="M 45.150951,-100.472466 A 28.622439,28.622439 0,0 1,27.052628,-96.179451"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Global id_Eradication"
+              d="M 41.382427,-109.934959 A 48.449438,48.449438 0,0 1,6.467840,-135.009476"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Global id_Initiative"
+              d="M 42.451859,-104.408508 A 47.412537,47.412537 0,0 1,1.385552,-111.775902"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Global id_Sardinha"
+              d="M 43.467464,-116.544548 A 220.140703,220.140703 0,0 1,-44.924805,-347.166290"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Global id_BMJ"
+              d="M 65.739861,-114.928734 A 71.198842,71.198842 0,0 1,134.396805,-103.482376"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_RTS id_S"
+              d="M -293.711395,277.266815 A 61.469171,61.469171 0,0 1,-298.634155,336.842529"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_RTS id_Ghana"
+              d="M -304.024902,277.606689 A 71.140299,71.140299 0,0 1,-365.063416,312.896088"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_RTS id_Kenya"
+              d="M -302.189514,278.300781 A 49.744582,49.744582 0,0 1,-336.201782,307.869415"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_RTS id_Malawi"
+              d="M -306.795502,275.703857 A 55.461106,55.461106 0,0 1,-357.451294,287.499634"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_RTS id_Malaria"
+              d="M -288.097473,268.203705 A 27.470044,27.470044 0,0 1,-272.673706,278.905426"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_RTS id_Vaccine"
+              d="M -310.290344,268.139618 A 32.989768,32.989768 0,0 1,-332.173096,255.877518"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_RTS id_Implementation"
+              d="M -290.299500,260.940094 A 27.100308,27.100308 0,0 1,-272.063660,259.261353"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_RTS id_Programme"
+              d="M -293.316315,258.171295 A 206.012133,206.012133 0,0 1,-77.699104,170.484802"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_RTS id_Box"
+              d="M -299.329590,256.491302 A 162.372227,162.372227 0,0 1,-194.892792,108.341476"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_RTS id_Plasmodium"
+              d="M -297.131500,256.683228 A 25.359679,25.359679 0,0 1,-286.351105,244.668594"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_RTS id_rubella"
+              d="M -307.787109,260.559875 A 24.803669,24.803669 0,0 1,-312.965485,246.007233"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_RTS id_Coverage"
+              d="M -291.936829,276.016754 A 26.488427,26.488427 0,0 1,-289.096527,293.336365"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_S id_Horiuchi"
+              d="M -300.378387,346.647736 A 47.912030,47.912030 0,0 1,-313.519104,391.547668"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ghana id_Kenya"
+              d="M -366.341919,308.688416 A 24.781398,24.781398 0,0 1,-347.844635,306.622772"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ghana id_Malawi"
+              d="M -373.036804,306.085754 A 23.588623,23.588623 0,0 1,-367.719177,289.791687"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ghana id_Benin"
+              d="M -376.352356,317.420624 A 26.554494,26.554494 0,0 1,-393.002869,323.287872"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kenya id_Benin"
+              d="M -346.507629,313.332062 A 51.164962,51.164962 0,0 1,-393.405701,324.793427"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Malawi id_Benin"
+              d="M -364.783356,291.528870 A 44.248964,44.248964 0,0 1,-393.056519,319.653900"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Vaccine id_Gavi"
+              d="M -340.760376,251.909515 A 20.332708,20.332708 0,0 1,-354.356781,246.366425"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Programme id_Government"
+              d="M -77.851540,172.566391 A 55.563314,55.563314 0,0 1,-125.724724,147.377350"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Programme id_Nairobi"
+              d="M -68.396942,165.961655 A 176.771793,176.771793 0,0 1,105.002243,67.347610"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Gavi id_Alliance"
+              d="M -362.857452,239.655685 A 20.471388,20.471388 0,0 1,-371.624420,227.025101"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Benin id_Burkina"
+              d="M -403.685669,330.949463 A 26.141509,26.141509 0,0 1,-415.675354,345.319885"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Benin id_Faso"
+              d="M -395.417480,328.078766 A 25.335697,25.335697 0,0 1,-390.669830,345.147339"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Benin id_Cameroon"
+              d="M -411.740753,321.689148 A 26.511256,26.511256 0,0 1,-428.181244,311.824371"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Benin id_Liberia"
+              d="M -403.608582,312.254852 A 26.374414,26.374414 0,0 1,-396.047333,294.820251"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Benin id_Sierra"
+              d="M -409.275909,315.244720 A 29.374341,29.374341 0,0 1,-415.403687,293.381104"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Benin id_Leone"
+              d="M -409.369476,327.866516 A 30.495976,30.495976 0,0 1,-433.135956,331.774750"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hepatitis id_B"
+              d="M 50.276981,-321.997009 A 23.263166,23.263166 0,0 1,54.657715,-338.687866"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hepatitis id_C"
+              d="M 45.063389,-315.572388 A 58.528427,58.528427 0,0 1,-1.739848,-352.486053"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hepatitis id_Western"
+              d="M 45.676922,-318.009216 A 22.100001,22.100001 0,0 1,36.496708,-330.891327"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hepatitis id_Pacific"
+              d="M 59.466000,-315.633148 A 85.568545,85.568545 0,0 1,138.962753,-268.968689"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_C id_Sardinha"
+              d="M -8.006776,-354.517395 A 32.884790,32.884790 0,0 1,-35.381615,-351.598663"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Pacific id_IHR"
+              d="M 146.589737,-262.172577 A 114.353557,114.353557 0,0 1,221.426743,-165.661835"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bangladesh id_kala"
+              d="M -246.671738,82.505104 A 50.159367,50.159367 0,0 1,-291.895233,71.415756"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bangladesh id_azar"
+              d="M -245.227509,85.194916 A 63.885419,63.885419 0,0 1,-307.874756,87.841652"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bangladesh id_India"
+              d="M -235.572723,89.399139 A 25.081454,25.081454 0,0 1,-242.413147,104.230957"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bangladesh id_Nepal"
+              d="M -247.176590,77.279594 A 43.934576,43.934576 0,0 1,-276.298920,50.604431"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bangladesh id_Regional"
+              d="M -231.674789,69.652466 A 190.642934,190.642934 0,0 1,-38.234165,-22.581402"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bangladesh id_Kala"
+              d="M -243.485092,87.034782 A 49.033414,49.033414 0,0 1,-286.771881,100.032272"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bangladesh id_Government"
+              d="M -226.219986,78.141373 A 102.712049,102.712049 0,0 1,-133.355667,132.567184"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bangladesh id_Maldives"
+              d="M -247.189545,80.453522 A 29.479579,29.479579 0,0 1,-267.160187,71.731812"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bangladesh id_Sri"
+              d="M -245.279694,72.694450 A 25.059408,25.059408 0,0 1,-251.594818,57.661304"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Bangladesh id_Lanka"
+              d="M -239.929993,88.973557 A 40.643592,40.643592 0,0 1,-267.463318,111.356705"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bangladesh id_Thailand"
+              d="M -244.038300,86.542328 A 27.801745,27.801745 0,0 1,-263.117065,91.513290"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_kala id_azar"
+              d="M -297.382599,72.854454 A 20.406172,20.406172 0,0 1,-307.328644,83.058075"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_azar id_Kala"
+              d="M -307.093964,85.338402 A 20.989541,20.989541 0,0 1,-294.711090,93.753654"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Regional id_Office"
+              d="M -25.456865,-25.838907 A 25.908687,25.908687 0,0 1,-6.178488,-28.651182"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Regional id_Data"
+              d="M -27.315712,-27.493996 A 46.100700,46.100700 0,0 1,12.043633,-46.281937"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Regional id_Manila"
+              d="M -24.993227,-25.181774 A 81.978947,81.978947 0,0 1,61.383808,-21.663919"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Government id_Special"
+              d="M -136.394974,145.093735 A 30.724492,30.724492 0,0 1,-161.698410,147.227112"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Government id_Research"
+              d="M -132.639679,147.889221 A 42.840183,42.840183 0,0 1,-165.069641,171.558914"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Government id_Training"
+              d="M -132.223480,148.031219 A 22.093225,22.093225 0,0 1,-143.133713,157.958954"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Government id_Tropical"
+              d="M -127.592117,148.127396 A 35.031301,35.031301 0,0 1,-136.978256,177.309708"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Government id_Chile"
+              d="M -124.381645,133.695206 A 144.912841,144.912841 0,0 1,32.193428,93.442291"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Afghanistan id_Pakistan"
+              d="M -416.550232,-151.555496 A 19.687281,19.687281 0,0 1,-421.001495,-137.307022"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Staphylococcus id_aureus"
+              d="M -487.364594,-229.907684 A 21.228902,21.228902 0,0 1,-471.076599,-230.720459"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Staphylococcus id_S."
+              d="M -486.959320,-224.605560 A 21.169590,21.169590 0,0 1,-477.487671,-211.419556"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Surveillance id_C."
+              d="M 168.703140,-150.005844 A 100.275176,100.275176 0,0 1,274.334900,-148.205811"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_.% id_Netherlands"
+              d="M -13.733007,-208.884888 A 29.058462,29.058462 0,0 1,-14.425564,-187.094818"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Netherlands id_Kingdom"
+              d="M -14.764480,-171.078445 A 39.282015,39.282015 0,0 1,-15.725654,-137.264191"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Netherlands id_Male"
+              d="M -27.960094,-183.581955 A 24.360570,24.360570 0,0 1,-36.541222,-197.681381"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Netherlands id_Female"
+              d="M -29.033621,-178.792053 A 38.137002,38.137002 0,0 1,-57.787964,-195.852448"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Netherlands id_Party"
+              d="M -28.182055,-175.254745 A 25.486832,25.486832 0,0 1,-45.967438,-177.312347"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_MPO id_WER"
+              d="M -3.411787,461.399323 A 19.692042,19.692042 0,0 1,-18.206446,459.368011"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Rural id_Urban"
+              d="M -526.115784,-120.511292 A 21.169670,21.169670 0,0 1,-510.443695,-124.750511"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Rural id_Shaded"
+              d="M -524.596436,-115.404343 A 21.210372,21.210372 0,0 1,-512.529663,-104.467735"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_UN id_DESA"
+              d="M 97.432587,469.418488 A 19.691238,19.691238 0,0 1,112.359566,469.823059"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_UHC id_PHC"
+              d="M 23.574944,-6.768701 A 27.985470,27.985470 0,0 1,5.742530,-0.566773"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_UHC id_RMNCH"
+              d="M 19.267328,-15.497016 A 52.497680,52.497680 0,0 1,-21.687634,-41.311680"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_UHC id_International"
-              d="M 20.815180,38.614094 A 107.678803,107.678803 0,0 1,67.127098,141.331055"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 40.145115,-22.979486 A 95.066874,95.066874 0,0 1,137.930664,-28.611694"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Data id_Office"
+              d="M 16.727095,-39.106110 A 22.450542,22.450542 0,0 1,5.425284,-28.163364"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_International id_IHR"
-              d="M 64.009491,161.083679 A 154.928646,154.928646 0,0 1,-51.655529,285.034760"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 144.120499,-32.475136 A 124.726952,124.726952 0,0 1,210.359955,-147.498367"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_International id_Migration"
+              d="M 150.972733,-20.169123 A 22.269998,22.269998 0,0 1,157.228027,-5.985479"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_IHR id_States"
+              d="M 214.347351,-163.169998 A 109.373254,109.373254 0,0 1,211.641098,-278.325775"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_IHR id_Self"
+              d="M 211.765625,-160.621323 A 40.938875,40.938875 0,0 1,200.521744,-192.508896"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_IHR id_Assessment"
+              d="M 216.132919,-164.275208 A 26.933443,26.933443 0,0 1,217.426758,-180.710922"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_IHR id_Annual"
+              d="M 229.590775,-163.130402 A 43.393324,43.393324 0,0 1,264.259064,-175.519943"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_IHR id_Report"
+              d="M 226.181885,-164.948456 A 28.038326,28.038326 0,0 1,240.095657,-176.162842"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_IHR id_SPAR"
-              d="M -51.438457,287.100433 A 88.359060,88.359060 0,0 1,23.016209,336.545715"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 234.720200,-152.892548 A 81.867266,81.867266 0,0 1,300.522888,-109.861641"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_IHR id_C."
-              d="M -52.463055,291.516388 A 64.195669,64.195669 0,0 1,-21.094725,342.837952"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 234.017944,-157.072205 A 52.815346,52.815346 0,0 1,274.975006,-149.005920"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_IHR id_Kiribati"
-              d="M -69.660583,292.798859 A 58.742540,58.742540 0,0 1,-123.128609,295.325836"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 219.239807,-165.383163 A 53.189965,53.189965 0,0 1,230.527283,-203.359726"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_IHR id_National"
+              d="M 230.012512,-142.987640 A 54.291475,54.291475 0,0 1,236.645325,-99.939758"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_IHR id_Strategic"
+              d="M 234.409042,-150.091782 A 28.766106,28.766106 0,0 1,247.538452,-137.413345"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_IHR id_Plan"
+              d="M 213.243637,-143.534836 A 30.135824,30.135824 0,0 1,194.566544,-138.163284"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_States id_Kiribati"
+              d="M 220.603088,-280.075684 A 62.516541,62.516541 0,0 1,243.893539,-228.473785"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_States id_GPW"
+              d="M 209.616592,-280.312286 A 32.871191,32.871191 0,0 1,181.103073,-279.453735"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_States id_Executive"
+              d="M 212.516083,-290.075073 A 52.615303,52.615303 0,0 1,221.522614,-341.765778"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_SPAR id_Kiribati"
-              d="M 17.257853,348.455841 A 140.088864,140.088864 0,0 1,-125.978844,298.529236"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 295.456696,-104.992111 A 108.318592,108.318592 0,0 1,240.452591,-198.711166"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SPAR id_National"
+              d="M 296.930023,-93.315292 A 61.355747,61.355747 0,0 1,243.526215,-83.975067"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
         <path stroke-linecap="round" fill="none" class="id_SPAR id_C."
-              d="M 19.024338,351.941498 A 40.557815,40.557815 0,0 1,-11.955470,356.490845"
-              stroke="#ef0b00" stroke-width="1.0" stroke-opacity="1.0"/>
+              d="M 296.152924,-106.177589 A 38.069908,38.069908 0,0 1,284.042480,-128.755859"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SPAR id_Radiation"
+              d="M 305.961609,-110.751434 A 25.122629,25.122629 0,0 1,315.362244,-123.519531"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SPAR id_Chemical"
+              d="M 313.186066,-106.773895 A 28.884073,28.884073 0,0 1,333.576233,-109.211838"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SPAR id_Food"
+              d="M 306.360718,-110.702911 A 46.467674,46.467674 0,0 1,334.223633,-142.233688"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SPAR id_Risk"
+              d="M 311.087189,-108.793655 A 46.798447,46.798447 0,0 1,350.860352,-123.714821"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SPAR id_Human"
+              d="M 303.179199,-89.834267 A 50.454106,50.454106 0,0 1,271.687164,-55.720005"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_SPAR id_Policy"
+              d="M 311.462128,-91.992775 A 43.957016,43.957016 0,0 1,315.439606,-54.180496"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_C. id_Policy"
+              d="M 293.501068,-133.059311 A 80.978619,80.978619 0,0 1,314.728333,-54.449265"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_C. id_Financing"
+              d="M 291.202606,-150.987717 A 50.525444,50.525444 0,0 1,334.171722,-167.443665"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_C. id_Laboratory"
+              d="M 286.669861,-152.945251 A 34.227685,34.227685 0,0 1,304.914185,-171.584763"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_C. id_Human"
+              d="M 288.414001,-129.507950 A 74.085442,74.085442 0,0 1,270.252960,-58.204388"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_C. id_Risk"
+              d="M 295.875580,-144.560196 A 62.005772,62.005772 0,0 1,352.650848,-126.925179"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_C. id_Zoonotic"
+              d="M 293.146301,-149.294250 A 28.472419,28.472419 0,0 1,311.746063,-152.926224"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_C. id_Food"
+              d="M 294.514832,-147.518402 A 46.160098,46.160098 0,0 1,334.706268,-146.772614"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_C. id_Chemical"
+              d="M 296.409363,-140.697952 A 53.450411,53.450411 0,0 1,336.508942,-112.410759"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_C. id_Radiation"
+              d="M 296.386749,-141.771271 A 32.455430,32.455430 0,0 1,316.980499,-130.712799"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Policy id_Advisory"
+              d="M 319.144409,-49.909939 A 26.788927,26.788927 0,0 1,340.429138,-43.942513"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Human id_Nairobi"
+              d="M 264.204041,-48.100090 A 162.565021,162.565021 0,0 1,122.711914,67.756256"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Pam id_Kiribati"
+              d="M 261.810883,-235.649170 A 28.425813,28.425813 0,0 1,254.323883,-221.315247"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kiribati id_Ministry"
+              d="M 246.452408,-199.552551 A 172.021592,172.021592 0,0 1,196.554443,-20.481020"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kiribati id_Cook"
+              d="M 246.593933,-227.757019 A 65.743787,65.743787 0,0 1,297.329865,-263.415466"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kiribati id_Islands"
+              d="M 235.381577,-227.414719 A 30.896640,30.896640 0,0 1,238.238815,-246.481674"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kiribati id_Fiji"
+              d="M 242.045135,-228.667084 A 63.994227,63.994227 0,0 1,278.129242,-276.467102"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kiribati id_Marshall"
+              d="M 247.626846,-227.332504 A 46.770742,46.770742 0,0 1,280.722900,-247.787918"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kiribati id_Federated"
+              d="M 228.910233,-221.968918 A 38.752828,38.752828 0,0 1,217.426620,-248.651871"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kiribati id_Palau"
+              d="M 240.404419,-228.646530 A 46.126551,46.126551 0,0 1,259.411804,-261.687531"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kiribati id_Solomon"
+              d="M 254.779800,-220.485535 A 46.379196,46.379196 0,0 1,292.937073,-215.935349"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kiribati id_Tonga"
+              d="M 251.320419,-224.942261 A 55.385002,55.385002 0,0 1,299.198303,-237.213791"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kiribati id_Vanuatu"
+              d="M 253.607925,-222.413483 A 29.402900,29.402900 0,0 1,270.976654,-223.510284"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kiribati id_DREF"
+              d="M 234.084229,-226.768585 A 49.345094,49.345094 0,0 1,237.545975,-268.682800"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kiribati id_MDRKI"
+              d="M 237.112000,-228.050812 A 64.099805,64.099805 0,0 1,255.634064,-285.140228"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ministry id_Family"
+              d="M 198.367630,-17.266323 A 23.514230,23.514230 0,0 1,212.957397,-14.171356"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ministry id_National"
+              d="M 188.426224,-24.034063 A 71.813485,71.813485 0,0 1,221.388885,-82.846207"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ministry id_Disability"
+              d="M 192.541656,-23.358885 A 55.008409,55.008409 0,0 1,236.075958,-53.471840"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ministry id_Service"
+              d="M 198.900558,-14.060884 A 37.847603,37.847603 0,0 1,226.223953,3.678609"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ministry id_SENADIS"
+              d="M 197.379303,-8.743334 A 26.705286,26.705286 0,0 1,205.800934,8.160553"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ministry id_Chile"
+              d="M 185.670639,-4.581308 A 155.257410,155.257410 0,0 1,45.091827,95.752945"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_National id_Strategic"
+              d="M 230.881516,-100.707916 A 39.207257,39.207257 0,0 1,245.091202,-129.038040"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_National id_Plan"
+              d="M 220.610825,-92.453468 A 55.648630,55.648630 0,0 1,189.281296,-133.011520"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_National id_Papua"
+              d="M 240.693787,-79.772667 A 101.024916,101.024916 0,0 1,257.770081,23.479347"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_National id_Center"
+              d="M 239.511932,-78.766327 A 51.028234,51.028234 0,0 1,242.800720,-34.758324"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_National id_Mental"
+              d="M 244.185898,-90.923897 A 47.603275,47.603275 0,0 1,283.356506,-74.545799"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_National id_Disability"
+              d="M 240.099503,-79.234276 A 30.039328,30.039328 0,0 1,243.192490,-59.093739"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_National id_Qualification"
+              d="M 240.083481,-97.892273 A 31.509567,31.509567 0,0 1,261.757385,-104.719536"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_National id_Certification"
+              d="M 244.283340,-90.361534 A 26.765654,26.765654 0,0 1,259.763641,-83.784897"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_National id_Survey"
+              d="M 220.784973,-92.937218 A 90.204858,90.204858 0,0 1,168.640381,-170.561783"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Addis id_Ababa"
+              d="M -52.613644,6.605435 A 29.705956,29.705956 0,0 1,-77.181465,14.048567"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Addis id_AAAA"
+              d="M -53.839886,-2.021376 A 76.554747,76.554747 0,0 1,-85.134514,-77.601585"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Hassanin id_A"
+              d="M -432.594391,-317.033051 A 21.207635,21.207635 0,0 1,-425.793365,-302.239410"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hassanin id_Serageldin"
+              d="M -431.988831,-322.333130 A 21.153144,21.153144 0,0 1,-415.928040,-320.102234"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Glob id_Sci"
+              d="M 174.802521,-101.928993 A 22.702490,22.702490 0,0 1,187.939667,-112.853310"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Glob id_Pract"
+              d="M 168.178116,-100.681900 A 21.092837,21.092837 0,0 1,165.305908,-115.503777"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Glob id_BMJ"
+              d="M 166.445328,-92.983932 A 28.144762,28.144762 0,0 1,143.869522,-95.771278"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Office id_Manila"
+              d="M 5.032264,-29.191908 A 56.874591,56.874591 0,0 1,61.720360,-22.082384"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paris id_Organisation"
+              d="M 280.466492,286.511597 A 25.033729,25.033729 0,0 1,279.676636,306.962433"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Paris id_Co"
+              d="M 283.365295,282.914642 A 24.176303,24.176303 0,0 1,296.458801,297.249817"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Sardinha id_L"
+              d="M -51.000179,-353.390656 A 38.996072,38.996072 0,0 1,-84.267570,-365.727112"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Sardinha id_García"
+              d="M -50.701294,-358.107483 A 90.731706,90.731706 0,0 1,-106.217407,-436.482178"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Sardinha id_Moreno"
+              d="M -47.380207,-362.254547 A 29.768205,29.768205 0,0 1,-47.663361,-386.474487"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Sardinha id_Guthold"
+              d="M -50.322334,-358.983887 A 42.346574,42.346574 0,0 1,-70.005684,-393.288269"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Sardinha id_R."
+              d="M -50.909645,-357.456573 A 24.534461,24.534461 0,0 1,-63.165958,-370.336273"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_García id_Cuéllar"
+              d="M -108.707657,-450.530640 A 22.157675,22.157675 0,0 1,-105.577370,-466.109131"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_García id_Henares"
+              d="M -113.245316,-441.546021 A 31.592708,31.592708 0,0 1,-139.783493,-448.633636"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_García id_Montiel"
+              d="M -112.951126,-446.639435 A 27.632032,27.632032 0,0 1,-125.712578,-465.324860"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_García id_J."
+              d="M -110.945000,-438.128906 A 22.234873,22.234873 0,0 1,-125.956528,-432.634613"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_R id_Van"
+              d="M -565.914917,17.503841 A 28.063430,28.063430 0,0 1,-541.744629,17.401714"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_R id_Der"
+              d="M -569.481323,14.848760 A 20.191448,20.191448 0,0 1,-559.206909,4.606927"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_R id_Heijden"
+              d="M -565.207397,22.371403 A 20.267287,20.267287 0,0 1,-554.927124,32.739918"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Boniol id_M"
+              d="M -25.667114,610.164001 A 43.203079,43.203079 0,0 1,-14.588950,570.604736"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Boniol id_Nair"
+              d="M -21.684317,609.951660 A 33.237431,33.237431 0,0 1,-1.428635,589.239258"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Boniol id_TS"
+              d="M -30.953512,618.806702 A 23.274637,23.274637 0,0 1,-46.532848,612.664673"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Boniol id_Siyam"
+              d="M -30.282080,614.188293 A 32.462939,32.462939 0,0 1,-45.057220,590.373535"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Boniol id_Diallo"
+              d="M -17.401169,612.467285 A 22.922064,22.922064 0,0 1,-1.356242,609.539185"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Boniol id_K."
+              d="M -28.593504,611.889343 A 43.965382,43.965382 0,0 1,-35.545578,570.463806"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_kiribati id_mdrki"
+              d="M -151.470840,452.812012 A 19.642858,19.642858 0,0 1,-166.183960,454.985870"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Triple id_Universal"
+              d="M -167.988739,-70.799530 A 46.294023,46.294023 0,0 1,-213.641235,-78.394424"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Universal id_Healthier"
+              d="M -222.837616,-80.030220 A 20.847075,20.847075 0,0 1,-238.548050,-82.036888"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_GPW id_Member"
+              d="M 175.088715,-288.519196 A 50.251596,50.251596 0,0 1,198.249008,-333.482880"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Papua id_Guinea"
+              d="M 262.381470,30.431589 A 29.800767,29.800767 0,0 1,283.630371,43.166008"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Papua id_China"
+              d="M 256.253876,22.983057 A 25.408302,25.408302 0,0 1,269.077698,9.149796"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Provincial id_Authority"
+              d="M 323.388519,-4.132782 A 27.041539,27.041539 0,0 1,346.217987,-2.068491"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Provincial id_Monitoring"
+              d="M 323.842102,0.071213 A 27.692489,27.692489 0,0 1,340.385406,17.066761"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Center id_Information"
+              d="M 247.148544,-28.673216 A 23.244189,23.244189 0,0 1,262.426178,-21.907583"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Center id_Commission"
+              d="M 244.425293,-21.793047 A 74.654665,74.654665 0,0 1,251.634537,56.447578"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Center id_China"
+              d="M 246.982468,-25.910320 A 41.238818,41.238818 0,0 1,273.187042,1.894393"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Commission id_Statistical"
+              d="M 249.328201,66.868576 A 54.125841,54.125841 0,0 1,222.688629,114.177673"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Member id_Executive"
+              d="M 206.432373,-340.645325 A 20.608005,20.608005 0,0 1,219.607101,-346.699677"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Executive id_Board"
+              d="M 223.554794,-351.948608 A 20.803986,20.803986 0,0 1,226.052887,-367.007202"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Horiuchi id_Wilmoth"
+              d="M -315.851898,389.723267 A 23.208485,23.208485 0,0 1,-301.455353,380.332245"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Horiuchi id_JR"
+              d="M -312.033264,397.953766 A 31.394128,31.394128 0,0 1,-293.232361,417.646057"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Horiuchi id_Pletcher"
+              d="M -312.390869,393.384613 A 30.520098,30.520098 0,0 1,-286.567719,397.565613"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Horiuchi id_SD"
+              d="M -315.104980,402.259552 A 23.641732,23.641732 0,0 1,-314.419464,419.969604"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Diﬀerence id_Ratio"
+              d="M -443.199066,-49.228165 A 19.684703,19.684703 0,0 1,-446.075073,-34.583481"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Ukraine id_Poland"
+              d="M -88.638412,453.325348 A 19.653302,19.653302 0,0 1,-103.511574,453.936584"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Statistical id_Expert"
+              d="M 223.029739,119.871613 A 37.910132,37.910132 0,0 1,244.224930,147.917358"
+              stroke="#6e6e6e" stroke-width="1.0" stroke-opacity="1.0"/>
     </g>
     <g id="nodes">
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-90.86481"
-                class="id_WHO" cy="97.4163" stroke="#a70700"
+        <circle fill-opacity="1.0" fill="#fc1800" r="9.711111" cx="90.08898"
+                class="id_WHO" cy="-127.66794" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="1.6888888"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="8.177778" cx="40.22228"
+                class="id_Region" cy="-178.11795" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="1.4222223"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="9.711111" cx="23.157986"
+                class="id_UI" cy="-212.14583" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="1.6888888"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="10.733333" cx="91.919014"
+                class="id_Fig" cy="-165.09053" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="1.8666666"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="12.266667" cx="-58.64602"
+                class="id_SDGs" cy="-61.98671" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="2.1333334"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-72.99308"
+                class="id_Sustainable" cy="-8.887371" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="6.133333" cx="13.955037"
+                class="id_Development" cy="28.995481" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="6.133333" cx="72.49728"
+                class="id_HALE" cy="-74.540054" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="18.4" cx="90.723236"
+                class="id_World" cy="25.917479" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="3.1999998"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="7.1555557" cx="75.11465"
+                class="id_Bank" cy="71.960495" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="1.2444444"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="87.883224"
+                class="id_NCD" cy="-196.22664" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-91.7699"
+                class="id_Figure" cy="-49.98422" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="44.311874"
+                class="id_ASDR" cy="-73.4477" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="47.444607"
+                class="id_Kidney" cy="12.7316265" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-94.910355"
+                class="id_MMR" cy="-303.0922" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.6222224" cx="-92.66793"
+                class="id_ARR" cy="-276.4716" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="6.6444445" cx="-56.86923"
+                class="id_SDG" cy="-270.55283" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.1555556"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="7.1555557" cx="-56.751698"
+                class="id_MDG" cy="-125.85188" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.2444444"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="6.6444445" cx="-72.07954"
+                class="id_UMR" cy="-241.76839" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.1555556"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-111.55906"
+                class="id_Newborn" cy="-62.31935" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-99.34604"
+                class="id_NMR" cy="-251.83107" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="13.8" cx="133.32541"
+                class="id_United" cy="137.70425" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="7.6666665" cx="135.20914"
+                class="id_Nations" cy="99.26165" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="1.3333333"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="124.686806"
+                class="id_Decade" cy="173.01952" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="6.133333" cx="100.91725"
+                class="id_Action" cy="-26.682972" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="176.55661"
+                class="id_Road" cy="174.5884" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="139.37016"
+                class="id_Safety" cy="190.65234" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="52.70349"
+                class="id_CDR" cy="-244.75381" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="8.6888895" cx="96.86456"
+                class="id_European" cy="-223.78525" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.5111111"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-213.44359"
+                class="id_Eastern" cy="-116.97914" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-237.4085"
+                class="id_Mediterranean" cy="-125.04608" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="16.866665" cx="70.25793"
+                class="id_Geneva" cy="131.68622" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="2.9333332"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="14.822222" cx="179.80661"
+                class="id_Health" cy="-57.703224" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="2.5777776"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="7.6666665" cx="138.95758"
+                class="id_Organization" cy="32.766026" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="1.3333333"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="7.1555557" cx="-35.395454"
+                class="id_Agenda" cy="46.403122" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.2444444"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="6.133333" cx="6.9701786"
+                class="id_General" cy="80.36889" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="7.1555557" cx="24.208397"
+                class="id_Assembly" cy="57.67778" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.2444444"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="14.311111" cx="178.54195"
+                class="id_New" cy="111.90394" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="2.4888887"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="200.08104"
+                class="id_York" cy="139.89369" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="6.6444445" cx="207.81007"
+                class="id_Group" cy="79.05482" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.1555556"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="37.27599"
+                class="id_UNDESA" cy="35.47047" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="156.36972"
+                class="id_Population" cy="79.498436" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="154.60071"
+                class="id_Division" cy="56.183567" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="116.20837"
+                class="id_Inter" cy="199.19301" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="102.69018"
+                class="id_agency" cy="170.98483" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="137.36336"
+                class="id_Child" cy="212.83708" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="161.73465"
+                class="id_Mortality" cy="193.65268" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="151.85503"
+                class="id_Estimation" cy="172.05238" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="5.6222224" cx="107.424866"
+                class="id_Children" cy="112.92844" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="5.6222224" cx="94.85512"
+                class="id_Fund" cy="91.610176" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="242.76125"
+                class="id_Department" cy="85.53332" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="242.37054"
+                class="id_Economic" cy="218.83333" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="204.53917"
+                class="id_Social" cy="51.27496" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="222.94382"
+                class="id_UNIGME--Child-Mortality-Report.pdf" cy="142.17505"
+                stroke="#868686" stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="204.49023"
+                class="id_en&amp;v" cy="163.85487" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="11.755555" cx="54.15409"
+                class="id_Global" cy="-109.53972" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="2.0444443"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="10.222221" cx="-299.19226"
+                class="id_RTS" cy="267.60156" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.7777777"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-301.93155"
+                class="id_S" cy="341.3137" stroke="#868686" stroke-opacity="1.0"
+                stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="6.133333" cx="-371.72446"
+                class="id_Ghana" cy="312.62198" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="5.6222224" cx="-342.2097"
+                class="id_Kenya" cy="308.98773" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="5.6222224" cx="-363.26288"
+                class="id_Malawi" cy="285.60992" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-270.17044"
+                class="id_Malaria" cy="283.23367" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-335.24432"
+                class="id_Vaccine" cy="251.24808" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-267.35867"
+                class="id_Implementation" cy="260.95346" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="6.133333" cx="-71.20843"
+                class="id_Programme" cy="172.00648" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-189.66928"
+                class="id_Box" cy="106.44963" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-281.77927"
+                class="id_Plasmodium" cy="242.64418" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-312.58716"
+                class="id_rubella" cy="241.02156" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-290.4285"
+                class="id_Coverage" cy="298.15567" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-357.83807"
+                class="id_Gavi" cy="242.0369" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-372.12045"
+                class="id_Alliance" cy="222.04976" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="8.6888895" cx="-402.29666"
+                class="id_Benin" cy="321.60773" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.5111111"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-420.25375"
+                class="id_Burkina" cy="347.32947" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-391.58823"
+                class="id_Faso" cy="350.0623" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-430.86224"
+                class="id_Cameroon" cy="307.6039" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-392.217"
+                class="id_Liberia" cy="291.6064" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-414.36737"
+                class="id_Sierra" cy="288.4897" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-437.87415"
+                class="id_Leone" cy="330.17798" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="6.6444445" cx="52.26701"
+                class="id_Hepatitis" cy="-315.05435" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.1555556"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="58.04506"
+                class="id_B" cy="-342.36563" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-3.4938765"
+                class="id_C" cy="-357.75745" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="35.800045"
+                class="id_Western" cy="-335.84256" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="141.32257"
+                class="id_Pacific" cy="-263.93924" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="9.711111" cx="-236.74757"
+                class="id_Bangladesh" cy="78.90917" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.6888888"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-295.8504"
+                class="id_kala" cy="67.514366" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.6222224" cx="-313.18243"
+                class="id_azar" cy="84.812744" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-246.21414"
+                class="id_India" cy="107.47941" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-277.80585"
+                class="id_Nepal" cy="45.83692" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="6.6444445" cx="-31.117146"
+                class="id_Regional" cy="-21.353182" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.1555556"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-292.16293"
+                class="id_Kala" cy="98.69036" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="7.6666665" cx="-129.74161"
+                class="id_Government" cy="140.07605" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.3333333"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-166.25699"
+                class="id_Special" cy="145.173" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-170.05183"
+                class="id_Research" cy="171.98045" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-147.93271"
+                class="id_Training" cy="159.3624" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-140.6863"
+                class="id_Tropical" cy="180.66386" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-270.36417"
+                class="id_Maldives" cy="67.89326" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-251.42682"
+                class="id_Sri" cy="52.664127" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-272.3918"
+                class="id_Lanka" cy="112.1992" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-268.01974"
+                class="id_Thailand" cy="90.53159" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-417.60904"
+                class="id_Afghanistan" cy="-156.44211" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-424.6537"
+                class="id_Pakistan" cy="-133.89214" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="48.444054"
+                class="id_AMR" cy="71.69646" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-492.0258"
+                class="id_Staphylococcus" cy="-226.88487" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-466.6017"
+                class="id_aureus" cy="-228.4899" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-476.9338"
+                class="id_S." cy="-206.45033" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="18.91616"
+                class="id_Antimicrobial" cy="-121.62011" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="20.525726"
+                class="id_Resistance" cy="-155.57196" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="55.908413"
+                class="id_Use" cy="-151.8669" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="164.0124"
+                class="id_Surveillance" cy="-147.02905" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="35.924812"
+                class="id_System" cy="-136.44086" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-16.141962"
+                class="id_.%" cy="-213.89099" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="8.6888895" cx="-19.59767"
+                class="id_Netherlands" cy="-179.19249" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="1.5111111"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="5.6222224" cx="-18.927216"
+                class="id_Kingdom" cy="-132.05884" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="1.2319877"
+                class="id_MPO" cy="459.54584" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-22.178835"
+                class="id_WER" cy="456.33154" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-37.031982"
+                class="id_Male" cy="-202.65724" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-60.254757"
+                class="id_Female" cy="-200.20158" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-50.170666"
+                class="id_Party" cy="-180.02028" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-530.0288"
+                class="id_Rural" cy="-116.56761" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-505.59634"
+                class="id_Urban" cy="-123.52447" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-510.9458"
+                class="id_Shaded" cy="-99.72523" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="93.01881"
+                class="id_UN" cy="471.76764" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="116.63962"
+                class="id_DESA" cy="472.40784" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="10.733333" cx="30.929373"
+                class="id_UHC" cy="-15.825381" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="1.8666666"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="0.76692176"
+                class="id_PHC" cy="-1.0600471" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-24.23446"
+                class="id_RMNCH" cy="-46.249073" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="18.400434"
+                class="id_ART" cy="-246.13072" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-4.1305385"
+                class="id_ITN" cy="-235.27437" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-65.38186"
+                class="id_Immunization" cy="61.600002" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="6.133333" cx="18.66257"
+                class="id_Data" cy="-45.485638" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="7.1555557" cx="144.66264"
+                class="id_International" cy="-24.716276" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="1.2444444"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="11.755555" cx="221.94243"
+                class="id_IHR" cy="-152.89447" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="2.0444443"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="6.133333" cx="215.19113"
+                class="id_States" cy="-283.96863" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="201.25807"
+                class="id_Self" cy="-197.45438" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="219.74702"
+                class="id_Assessment" cy="-185.13995" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="269.20102"
+                class="id_Annual" cy="-174.76038" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="244.92143"
+                class="id_Report" cy="-177.47125" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="9.711111" cx="304.88742"
+                class="id_SPAR" cy="-100.25068" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="1.6888888"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="11.244445" cx="284.19034"
+                class="id_C." cy="-140.97719" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="1.9555556"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="6.133333" cx="312.73132"
+                class="id_Policy" cy="-48.08873" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="339.1106"
+                class="id_Financing" cy="-166.66429" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="309.64096"
+                class="id_Laboratory" cy="-173.21498" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="5.6222224" cx="265.8254"
+                class="id_Human" cy="-53.99219" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="356.33432"
+                class="id_Risk" cy="-122.7663" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="316.6094"
+                class="id_Zoonotic" cy="-151.76521" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="339.50168"
+                class="id_Food" cy="-143.96756" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="338.81238"
+                class="id_Chemical" cy="-107.355225" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="320.2262"
+                class="id_Radiation" cy="-126.203964" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="262.3342"
+                class="id_Pam" cy="-240.6217" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="13.8" cx="241.41228"
+                class="id_Kiribati" cy="-213.68044" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="2.3999999"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="9.2" cx="188.90057"
+                class="id_Ministry" cy="-14.0453205" stroke="#0200aa"
                 stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-147.10147"
-                class="id_Region" cy="84.33154" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-192.08327"
-                class="id_UI" cy="79.51922" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-130.47995"
-                class="id_Fig" cy="123.23123" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-73.32675"
-                class="id_SDGs" cy="-32.629654" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-37.334538"
-                class="id_HALE" cy="94.30479" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="79.12419"
-                class="id_World" cy="88.71801" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="122.9715"
-                class="id_Bank" cy="46.342144" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="154.31197"
-                class="id_United" cy="24.637806" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="161.4764"
-                class="id_Nations" cy="59.08212" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="195.943"
-                class="id_Geneva" cy="55.164055" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="52.34801"
-                class="id_Health" cy="217.66994" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="98.46221"
-                class="id_Organization" cy="118.26121" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="195.8289"
-                class="id_New" cy="157.80254" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-45.70894"
-                class="id_Global" cy="156.74348" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-170.92442"
-                class="id_Netherlands" cy="27.962143" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="12.290822"
-                class="id_UHC" cy="33.385773" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="65.40105"
-                class="id_International" cy="151.18097" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-61.438454"
-                class="id_IHR" cy="287.10706" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="26.889105"
-                class="id_SPAR" cy="345.7653" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-21.263844"
-                class="id_C." cy="352.83652" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="-131.8509"
-                class="id_Kiribati" cy="290.43488" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
-        <circle fill-opacity="1.0" fill="#ef0b00" r="9.2" cx="141.89618"
-                class="id_Nairobi" cy="104.91451" stroke="#a70700"
-                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="302.31247"
+                class="id_Cook" cy="-263.8322" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="240.83968"
+                class="id_Islands" cy="-250.75198" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="282.73816"
+                class="id_Fiji" cy="-278.4056" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="285.71027"
+                class="id_Marshall" cy="-248.14334" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="217.63818"
+                class="id_Federated" cy="-253.6474" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="263.62512"
+                class="id_Palau" cy="-264.37973" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="297.06442"
+                class="id_Solomon" cy="-213.1131" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="304.0344"
+                class="id_Tonga" cy="-235.94405" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="275.71887"
+                class="id_Vanuatu" cy="-221.92554" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="11.244445" cx="232.19514"
+                class="id_National" cy="-88.556496" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.9555556"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="249.61632"
+                class="id_Strategic" cy="-132.261" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="5.6222224" cx="188.5239"
+                class="id_Plan" cy="-139.07552" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="6.133333" cx="-48.23089"
+                class="id_Addis" cy="1.5818994" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-82.04184"
+                class="id_Ababa" cy="12.875208" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-83.99065"
+                class="id_AAAA" cy="-83.03811" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-89.180855"
+                class="id_DAH" cy="-137.14781" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-70.953255"
+                class="id_Midway" cy="-292.57867" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="35.528614"
+                class="id_Joint" cy="180.47678" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="57.749302"
+                class="id_HTM" cy="168.63757" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="79.469864"
+                class="id_TB" cy="174.30489" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="343.94092"
+                class="id_Advisory" cy="-40.38339" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="60.586075"
+                class="id_hbsag" cy="194.52107" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-437.13348"
+                class="id_Hassanin" cy="-320.2363" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-426.1991"
+                class="id_A" cy="-297.2559" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-411.94708"
+                class="id_Serageldin" cy="-317.077" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="6.133333" cx="172.55447"
+                class="id_Glob" cy="-95.652794" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="192.84242"
+                class="id_Sci" cy="-113.83464" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="166.75192"
+                class="id_Pract" cy="-120.290115" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="57.37947"
+                class="id_egypt" cy="50.69667" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="179.77411"
+                class="id_Delhi" cy="150.0086" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="5.6222224" cx="-0.4565647"
+                class="id_Office" cy="-26.505192" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="22.1384"
+                class="id_Polio" cy="-97.1016" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="4.352935"
+                class="id_Eradication" cy="-139.54016" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-2.4838438"
+                class="id_Initiative" cy="-114.942566" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#fc1800" r="8.177778" cx="113.839775"
+                class="id_Nairobi" cy="68.30175" stroke="#b01000"
+                stroke-opacity="1.0" stroke-width="1.4222223"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.6222224" cx="277.51062"
+                class="id_Paris" cy="281.1629" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="277.0218"
+                class="id_Organisation" cy="311.1994" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="297.56647"
+                class="id_Co" cy="302.12558" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="7.6666665" cx="-42.875484"
+                class="id_Sardinha" cy="-355.2437" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.3333333"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-87.408585"
+                class="id_L" cy="-369.61737" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="6.6444445" cx="-106.35275"
+                class="id_García" cy="-443.70312" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.1555556"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-45.30415"
+                class="id_Moreno" cy="-390.8829" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-69.88557"
+                class="id_Guthold" cy="-398.28683" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-64.58498"
+                class="id_R." cy="-375.13068" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="216.0168"
+                class="id_Adolesc" cy="-57.47845" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.6222224" cx="-571.09735"
+                class="id_R" cy="20.742334" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-537.431"
+                class="id_Van" cy="19.930155" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-554.4189"
+                class="id_Der" cy="3.1665297" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-553.5023"
+                class="id_Heijden" cy="37.532616" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.6222224" cx="138.99582"
+                class="id_BMJ" cy="-99.45811" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-102.44082"
+                class="id_Cuéllar" cy="-470.003" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-143.30296"
+                class="id_Henares" cy="-452.18515" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-126.14583"
+                class="id_Montiel" cy="-470.30606" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-130.91466"
+                class="id_J." cy="-433.28036" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="17.333073"
+                class="id_Reconstruction" cy="166.38907" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="7.1555557" cx="-23.275505"
+                class="id_Boniol" cy="617.56494" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.2444444"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-10.911428"
+                class="id_M" cy="567.21716" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="3.3897965"
+                class="id_Nair" cy="587.90405" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-49.828396"
+                class="id_TS" cy="608.9044" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-45.2166"
+                class="id_Siyam" cy="585.3761" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="3.4313726"
+                class="id_Diallo" cy="610.98096" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-33.650833"
+                class="id_K." cy="565.83673" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="20.462818"
+                class="id_Meteorological" cy="139.13075" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="240.2581"
+                class="id_DREF" cy="-272.8833" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="259.35712"
+                class="id_MDRKI" cy="-288.47772" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="77.82566"
+                class="id_Federation" cy="211.20457" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="16.971657"
+                class="id_Red" cy="193.17195" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="38.939903"
+                class="id_Cross" cy="204.335" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="56.45711"
+                class="id_Crescent" cy="218.08604" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="91.6018"
+                class="id_Societies" cy="193.00603" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-147.52878"
+                class="id_kiribati" cy="449.73627" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-170.84706"
+                class="id_mdrki" cy="453.18155" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="38.560883"
+                class="id_nha" cy="154.15527" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-159.74379"
+                class="id_Progress" cy="-99.48792" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-162.91287"
+                class="id_Triple" cy="-73.05781" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="5.6222224" cx="123.00795"
+                class="id_nd" cy="-6.372495" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="-217.71254"
+                class="id_Universal" cy="-82.17445" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.6222224" cx="175.77507"
+                class="id_GPW" cy="-282.44675" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-242.56776"
+                class="id_Healthier" cy="-85.010414" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="7.1555557" cx="254.6052"
+                class="id_Papua" cy="30.58409" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.2444444"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="286.1072"
+                class="id_Guinea" cy="47.50942" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.6222224" cx="317.91464"
+                class="id_Provincial" cy="-1.4157047" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="350.2861"
+                class="id_Authority" cy="0.83848" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="341.56894"
+                class="id_Monitoring" cy="21.924664" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="7.1555557" cx="239.42563"
+                class="id_Center" cy="-27.750996" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.2444444"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="265.56433"
+                class="id_Information" cy="-18.015018" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="248.97348"
+                class="id_Commission" cy="61.32436" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="274.32733"
+                class="id_China" cy="7.3316665" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="203.09082"
+                class="id_Member" cy="-336.20706" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.6222224" cx="225.69984"
+                class="id_Executive" cy="-346.22632" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.9777778"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="229.1204"
+                class="id_Board" cy="-370.95566" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="6.6444445" cx="-319.04022"
+                class="id_Horiuchi" cy="396.2036" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="1.1555556"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-296.47592"
+                class="id_Wilmoth" cy="379.87924" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-292.07288"
+                class="id_JR" cy="422.50977" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-282.69696"
+                class="id_Pletcher" cy="400.7306" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-316.6009"
+                class="id_SD" cy="424.46863" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="6.6444445" cx="67.17611"
+                class="id_Manila" cy="-17.35002" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.1555556"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="113.156235"
+                class="id_Interview" cy="-256.40103" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="168.55254"
+                class="id_Survey" cy="-176.11664" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-444.78253"
+                class="id_Diﬀerence" cy="-53.97081" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-449.3345"
+                class="id_Ratio" cy="-30.791904" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="68.87683"
+                class="id_Union" cy="-261.21918" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="92.07937"
+                class="id_Income" cy="-277.1206" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="91.28586"
+                class="id_Living" cy="-253.20142" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-106.87774"
+                class="id_Poverty" cy="-85.93611" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="6.133333" cx="38.425407"
+                class="id_Chile" cy="95.81018" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.0666666"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="216.97305"
+                class="id_Family" cy="-11.192353" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.1111107" cx="241.62381"
+                class="id_Disability" cy="-53.764248" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.88888884"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="228.55034"
+                class="id_Service" cy="8.104431" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="205.8362"
+                class="id_SENADIS" cy="13.160429" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="286.42206"
+                class="id_Mental" cy="-70.595825" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="266.70624"
+                class="id_Qualification" cy="-104.00618" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="263.1934"
+                class="id_Certification" cy="-80.14667" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="156.96507"
+                class="id_Migration" cy="-0.9923985" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-84.39425"
+                class="id_Ukraine" cy="450.68204" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="-107.95832"
+                class="id_Poland" cy="451.65045" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
+        <circle fill-opacity="1.0" fill="#0400f4" r="6.6444445" cx="216.23584"
+                class="id_Statistical" cy="117.421425" stroke="#0200aa"
+                stroke-opacity="1.0" stroke-width="1.1555556"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="4.6" cx="244.71942"
+                class="id_Expert" cy="152.89285" stroke="#868686"
+                stroke-opacity="1.0" stroke-width="0.79999995"/>
     </g>
 </svg>
