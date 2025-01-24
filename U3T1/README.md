@@ -7,6 +7,6 @@ For more information visit this <a href="https://medium.com/@pedro.henriquesanto
  - Execute the code;
  - Download the `my_graph.gexf` file and open it with Gephi.
 
-To see the already edited graph download `my_graph.gephi` at "Gephi" folder open it. 
+To see the already edited graph download `my_graph.gephi` at "Gephi" folder and open it. 
 
 
