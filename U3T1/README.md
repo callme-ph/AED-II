@@ -1,4 +1,4 @@
-> ### Execution instructions
+### Execution instructions
  - Open v2_U3T1.ipynb with Google's Colaboratory;
  - Upload `oms.pdf` to the environment;
  - Execute the code;
